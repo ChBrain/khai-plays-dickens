@@ -67,7 +67,7 @@ jobs:
       # run on the audit commit and its required checks would stay stale on the
       # head. This mirrors release.yml, which uses RELEASE_TOKEN for the same
       # reason. The consistency status is still posted directly by this job.
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           ref: ${{ steps.ctx.outputs.head_ref }}
           fetch-depth: 0
@@ -224,7 +224,7 @@ jobs:
     if: github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           ref: ${{ github.event.pull_request.head.ref || github.ref }}
           fetch-depth: 0
