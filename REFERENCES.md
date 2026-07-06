@@ -18,20 +18,74 @@ The scope of this house covers the canonical corpus:
 
 The current status of the Dickens productions within this house:
 
-- `[ ]` **The novels** — Planned (strategy and staging to be resolved)
-- `[ ]` **The Christmas Books** — Planned (strategy and staging to be resolved)
-- `[ ]` **The shorter fiction and journalism** — Planned (strategy and staging to be resolved)
+- **The Novels (CDN)**
+  - `[ ]` `cdn_001_the_pickwick_papers` — Planned
+  - `[ ]` `cdn_002_oliver_twist` — Planned
+  - `[ ]` `cdn_003_nicholas_nickleby` — Planned
+  - `[ ]` `cdn_004_the_old_curiosity_shop` — Planned
+  - `[ ]` `cdn_005_barnaby_rudge` — Planned
+  - `[ ]` `cdn_006_martin_chuzzlewit` — Planned
+  - `[ ]` `cdn_007_dombey_and_son` — Planned
+  - `[ ]` `cdn_008_david_copperfield` — Planned
+  - `[ ]` `cdn_009_bleak_house` — Planned
+  - `[ ]` `cdn_010_hard_times` — Planned
+  - `[ ]` `cdn_011_little_dorrit` — Planned
+  - `[ ]` `cdn_012_a_tale_of_two_cities` — Planned
+  - `[ ]` `cdn_013_great_expectations` — Planned
+  - `[ ]` `cdn_014_our_mutual_friend` — Planned
+  - `[ ]` `cdn_015_the_mystery_of_edwin_drood` — Planned
+- **The Christmas Books (CCB)**
+  - `[ ]` `ccb_001_a_christmas_carol` — Planned
+  - `[ ]` `ccb_002_the_chimes` — Planned
+  - `[ ]` `ccb_003_the_cricket_on_the_hearth` — Planned
+  - `[ ]` `ccb_004_the_battle_of_life` — Planned
+  - `[ ]` `ccb_005_the_haunted_man_and_the_ghosts_bargain` — Planned
+- **The Shorter Fiction and Sketches (CSF)**
+  - `[ ]` `csf_001_sketches_by_boz` — Planned
+  - `[ ]` `csf_002_the_uncommercial_traveller` — Planned
+  - `[ ]` `csf_003_christmas_stories` — Planned
+  - `[ ]` `csf_004_master_humphreys_clock` — Planned
+  - `[ ]` `csf_005_holiday_romance` — Planned
+  - `[ ]` `csf_006_george_silvermans_explanation` — Planned
 
 ## Origin
 
-Charles Dickens's published works, in the public domain, together with their serial publication history and the public readings he shaped from them.
+The complete canonical catalog of Charles Dickens's published works, held in the public domain and indexed chronologically for staging:
 
-| Source              | Key Work / Event                       | Scope                                                             |
-| ------------------- | -------------------------------------- | ----------------------------------------------------------------- |
-| **Charles Dickens** | The fifteen novels (1836 to 1870)      | The canonical serialised novels, Pickwick to Edwin Drood.         |
-| **Charles Dickens** | The Christmas Books (1843 to 1848)     | The five moral fables, A Christmas Carol foremost.                |
-| **Charles Dickens** | Sketches and journalism (1833 to 1870) | Sketches by Boz, Household Words, All the Year Round.             |
-| **Charles Dickens** | The public readings (1853 to 1870)     | The performance versions, the works cut and shaped for the stage. |
+### The Novels (CDN)
+
+- **`cdn_001` [PP]** — _The Posthumous Papers of the Pickwick Club_ (published in monthly parts from 1836 to 1837): A chronicle of the travels, perils, and litigation of the Pickwickians, wherein the benevolence of a retired gentleman is audited by the cold cell of the Fleet Prison.
+- **`cdn_002` [OT]** — _Oliver Twist; or, The Parish Boy's Progress_ (published in monthly parts from 1837 to 1839): The parish boy's progress through the workhouse, the dark dens of London thieves, and the machinery of the poor laws, showing how the light of innocence survives the squeeze of vice.
+- **`cdn_003` [NN]** — _The Life and Adventures of Nicholas Nickleby_ (published in monthly parts from 1838 to 1839): A history of the fortunes and misfortunes of a young gentleman seeking his bread in a world of Yorkshire schoolmasters, theatrical troupes, and usurers.
+- **`cdn_004` [OCS]** — _The Old Curiosity Shop_ (published in weekly parts from 1840 to 1841): The pilgrimage of little Nell and her grandfather, pursued by the grotesque dwarf Quilp, through a landscape of iron works and rural stillness.
+- **`cdn_005` [BR]** — _Barnaby Rudge: A Tale of the Riots of Eighty_ (published in weekly parts in 1841): A tale of the Gordon Riots, wherein the madness of the mob meets the heavy hand of the law, and the shadow of the gallows hangs over the innocent.
+- **`cdn_006` [MC]** — _The Life and Adventures of Martin Chuzzlewit_ (published in monthly parts from 1843 to 1844): An account of the selfishness of a family, the hypocrisy of the architect Pecksniff, and the muddy waters of American speculation.
+- **`cdn_007` [DS]** — _Dombey and Son_ (published in monthly parts from 1846 to 1848): The rise and ruin of a great merchant house, where pride is broken by the waves of change, and the cold ledger of the firm cannot measure a daughter's love.
+- **`cdn_008` [DC]** — _David Copperfield_ (published in monthly parts from 1849 to 1850): The personal history and experience of a young man, from the dark warehouse of Blackfriars to the heights of authorship, written on the tablets of his own memory.
+- **`cdn_009` [BH]** — _Bleak House_ (published in monthly parts from 1852 to 1853): The great Chancery case of Jarndyce and Jarndyce, which spreads decay and delay through the land, connecting the high halls of Chesney Wold with the muddy ruin of Tom-all-Alone's.
+- **`cdn_010` [HT]** — _Hard Times: For These Times_ (published in weekly parts in 1854): A report from Coketown, where the cold facts of the schoolroom and the steam engine attempt to grind out the fancy of the human heart.
+- **`cdn_011` [LD]** — _Little Dorrit_ (published in monthly parts from 1855 to 1857): A study of the Marshalsea debtor's prison, the shadow of the Circumlocution Office, and the great bubbles of financial speculation that ruin the credulous.
+- **`cdn_012` [TTC]** — _A Tale of Two Cities_ (published in weekly parts in 1859): A drama of the French Revolution, where the guillotine shears the proud and the humble alike, and one life is given to buy another's peace.
+- **`cdn_013` [GE]** — _Great Expectations_ (published in weekly parts from 1860 to 1861): The story of a blacksmith's boy raised by a secret benefactor to the status of a gentleman, only to discover the muddy source of his fortune.
+- **`cdn_014` [OMF]** — _Our Mutual Friend_ (published in monthly parts from 1864 to 1865): A tale of the River Thames, the great dust heaps of London, and the social climbers who gather around the fortune of a drowned heir.
+- **`cdn_015` [MED]** — _The Mystery of Edwin Drood_ (published in monthly parts in 1870; unfinished): The unfinished record of a cathedral town, where the dark fumes of opium mix with the shadows of the choir.
+
+### The Christmas Books (CCB)
+
+- **`ccb_001` [CC]** — _A Christmas Carol_ (published in 1843): The conversion of a tight-fisted calculator under the audit of three spirits and a chain-bound ghost.
+- **`ccb_002` [C]** — _The Chimes_ (published in 1844): A goblin story of the bells, showing how the poor are tempted to believe they have no right to exist.
+- **`ccb_003` [CH]** — _The Cricket on the Hearth_ (published in 1845): A domestic fairy tale of a carrier, his young wife, and the blind girl, where the cricket chirps of comfort and truth.
+- **`ccb_004` [BL]** — _The Battle of Life_ (published in 1846): A love story of a quiet hearth, where the greatest victories are fought in the silent chambers of the heart.
+- **`ccb_005` [HM]** — _The Haunted Man and the Ghost's Bargain_ (published in 1848): The gift of a chemistry teacher who bargains away his memory of sorrow, only to discover that the loss of grief destroys the capacity for love.
+
+### Shorter Fiction and Sketches (CSF)
+
+- **`csf_001` [SB]** — _Sketches by Boz_ (published in 1836): The earliest reports of the streets, the shops, the coaches, and the characters of London, taken before the writer had turned his observations to novels.
+- **`csf_002` [UT]** — _The Uncommercial Traveller_ (published from 1860 to 1869): The wandering essays of a foot passenger, who tramps through the workhouses, docks, and night-walks of the city, recording the silent stories of the crowd.
+- **`csf_003` [CS]** — _Christmas Stories_ (published from 1850 to 1867): The collaborative tales from the Christmas numbers of _Household Words_ and _All the Year Round_, from _The Seven Poor Travellers_ to _No Thoroughfare_.
+- **`csf_004` [MHC]** — _Master Humphrey's Clock_ (published from 1840 to 1841): The framing chronicle of the old clock-case, where Master Humphrey and his friends gather to read their manuscripts.
+- **`csf_005` [HR]** — _Holiday Romance_ (published in 1868): A children's story in four parts, told by the children themselves, exposing the strange ways of parents and grownups.
+- **`csf_006` [GB]** — _George Silverman's Explanation_ (published in 1868): The confession of a clergyman who suffers from the suspicion of his fellows, despite his attempts at selflessness.
 
 ## Restrictions
 
