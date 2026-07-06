@@ -1,0 +1,7 @@
+{
+  "id": "conciseness",
+  "review": {
+    "rubrics": ["conciseness"],
+    "targets": ["."]
+  }
+}

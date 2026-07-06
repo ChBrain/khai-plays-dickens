@@ -1,0 +1,6 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "name": "@chbrain/khai-plays-dickens",
+  "version": "0.0.0",
+  "plays": []
+}

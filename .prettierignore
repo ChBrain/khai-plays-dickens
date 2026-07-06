@@ -1,0 +1,9 @@
+node_modules/
+dist/
+
+# Generated audit artifacts: the audit workflow commits these (the human log,
+# the ledger, the freshness stamp); they are machine-written, not hand-formatted,
+# so prettier must not gate a PR on their style.
+audit/*/ledger.json
+audit/*/log.md
+audit/*/meta.json

@@ -1,0 +1,7 @@
+{
+  "id": "voice-conformance",
+  "review": {
+    "rubrics": ["voice-conformance"],
+    "targets": ["."]
+  }
+}

@@ -1,0 +1,309 @@
+# Audit lane. Drives the NLP review as an audit PR (see audit/README.md).
+#
+# Both jobs post the verdict as a `consistency` COMMIT STATUS on the head commit,
+# rather than relying on a job conclusion or a workflow re-trigger (a commit
+# pushed by GITHUB_TOKEN does not re-fire workflows, and a PAT push is unreliable
+# for that). The required branch-protection check is the `consistency` status.
+#
+#   review       calls the model (cost), so it runs only on PR open/reopen, a
+#                `/audit` comment, or manual dispatch. It reviews each audit, reads
+#                the PR's comment treatments into the ledger (the comment -> table
+#                sync), commits ledger + log + meta, posts NEW findings as inline
+#                comments, then posts the `consistency` status on its commit. So
+#                the gate updates the moment the review syncs, no re-trigger.
+#   audit checks runs on each push and on dispatch, with no model calls; it posts
+#                the same `consistency` status (freshness + table-vs-comments) for
+#                the PR-open and human-push cases. This, plus GitHub's "require
+#                conversation resolution", holds the audit PR until the table is ok.
+
+name: audit
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+    paths: ["audit/**"]
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  models: read
+  statuses: write
+  packages: read
+
+jobs:
+  review:
+    name: review (model, advisory)
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'pull_request' && github.event.action != 'synchronize') ||
+      (github.event_name == 'issue_comment' && github.event.issue.pull_request != null &&
+       startsWith(github.event.comment.body, '/audit'))
+    runs-on: ubuntu-latest
+    steps:
+      - name: Resolve PR context
+        id: ctx
+        uses: actions/github-script@v9
+        with:
+          script: |
+            let pr = context.payload.pull_request;
+            if (!pr && context.payload.issue) {
+              const { data } = await github.rest.pulls.get({
+                owner: context.repo.owner, repo: context.repo.repo,
+                pull_number: context.payload.issue.number,
+              });
+              pr = data;
+            }
+            if (!pr) { core.setFailed("no PR context"); return; }
+            core.setOutput("number", pr.number);
+            core.setOutput("head_ref", pr.head.ref);
+            core.setOutput("base_ref", pr.base.ref);
+
+      # Check out with RELEASE_TOKEN so the review job's commit push is a real
+      # identity, not GITHUB_TOKEN. A GITHUB_TOKEN push does not trigger further
+      # workflow runs (anti-recursion), so ci.yml (khai-tests, khai-guard) would never
+      # run on the audit commit and its required checks would stay stale on the
+      # head. This mirrors release.yml, which uses RELEASE_TOKEN for the same
+      # reason. The consistency status is still posted directly by this job.
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ steps.ctx.outputs.head_ref }}
+          fetch-depth: 0
+          token: ${{ secrets.RELEASE_TOKEN || github.token }}
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - run: npm ci
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Read the PR's comment treatments, so the review can sync them into the
+      # ledger (Accept / Reduce / Transfer the human recorded on each finding).
+      - name: Fetch review threads
+        uses: actions/github-script@v9
+        env:
+          PR_NUMBER: ${{ steps.ctx.outputs.number }}
+        with:
+          script: |
+            const q = `query($owner:String!,$repo:String!,$num:Int!){
+              repository(owner:$owner,name:$repo){
+                pullRequest(number:$num){
+                  reviewThreads(first:100){ nodes { isResolved comments(first:50){ nodes { body } } } }
+                }
+              }
+            }`;
+            const r = await github.graphql(q, {
+              owner: context.repo.owner, repo: context.repo.repo,
+              num: Number(process.env.PR_NUMBER),
+            });
+            const threads = r.repository.pullRequest.reviewThreads.nodes.map((t) => ({
+              isResolved: t.isResolved,
+              comments: t.comments.nodes.map((c) => ({ body: c.body })),
+            }));
+            require("fs").writeFileSync("/tmp/threads.json", JSON.stringify(threads));
+
+      - name: Run the audits
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
+          BASE_REF: ${{ steps.ctx.outputs.base_ref }}
+        run: |
+          mkdir -p /tmp/audit-new
+          node .github/scripts/audit-decisions.mjs /tmp/threads.json > /tmp/decisions.json
+          # "/audit <id>" runs that named audit on demand, regardless of the diff;
+          # otherwise run whatever audit manifest the PR changed.
+          named=$(printf '%s' "$COMMENT_BODY" | sed -n 's#^/audit[[:space:]]\+\([A-Za-z0-9._-]\+\).*#\1#p')
+          if [ -n "$named" ] && [ -f "audit/$named/audit.json" ]; then
+            manifests="audit/$named/audit.json"
+          else
+            git fetch origin "$BASE_REF" --depth=1
+            manifests=$(git diff --name-only "origin/$BASE_REF...HEAD" -- 'audit/*/audit.json' || true)
+          fi
+          if [ -z "$manifests" ]; then echo "no audits to run"; exit 0; fi
+          for m in $manifests; do
+            id=$(basename "$(dirname "$m")")
+            npx khai-review --manifest "$m" \
+              --decisions /tmp/decisions.json --new "/tmp/audit-new/$id.json"
+            # Stamp meta.json with the content just reviewed, so the freshness
+            # gate can prove this audit ran against the current content.
+            node .github/scripts/audit-stamp.mjs "$m"
+          done
+
+      - name: Commit ledger + log
+        id: commit
+        env:
+          HEAD_REF: ${{ steps.ctx.outputs.head_ref }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add audit/
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "audit: update ledger + log"
+            git push origin HEAD:"$HEAD_REF"
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Post new findings as inline comments
+        uses: actions/github-script@v9
+        env:
+          COMMIT_SHA: ${{ steps.commit.outputs.sha }}
+          PR_NUMBER: ${{ steps.ctx.outputs.number }}
+        with:
+          script: |
+            const fs = require("fs");
+            const dir = "/tmp/audit-new";
+            if (!fs.existsSync(dir)) return;
+            const commit_id = process.env.COMMIT_SHA;
+            const pull_number = Number(process.env.PR_NUMBER);
+            for (const file of fs.readdirSync(dir)) {
+              const comments = JSON.parse(fs.readFileSync(`${dir}/${file}`, "utf8"));
+              for (const c of comments) {
+                if (!c.line) continue;
+                try {
+                  await github.rest.pulls.createReviewComment({
+                    owner: context.repo.owner, repo: context.repo.repo,
+                    pull_number, commit_id, path: c.path, line: c.line, side: "RIGHT",
+                    body: c.body,
+                  });
+                } catch (err) {
+                  core.warning(`could not post comment for ${c.id}: ${err.message}`);
+                }
+              }
+            }
+
+      # Post the consistency verdict directly as a commit status on the commit we
+      # just made. This is what makes the gate live without depending on a
+      # workflow re-trigger: the review job is the authority right after it syncs
+      # the table, so it reports the status itself.
+      - name: Consistency gate
+        id: gate
+        env:
+          BASE_REF: ${{ steps.ctx.outputs.base_ref }}
+        run: |
+          base="$BASE_REF"
+          git fetch origin "$base" --depth=1 || true
+          manifests=""
+          for id in $(git diff --name-only "origin/$base...HEAD" -- 'audit/**' 2>/dev/null \
+            | sed -n 's#^audit/\([^/]*\)/.*#\1#p' | sort -u); do
+            [ -f "audit/$id/audit.json" ] && manifests="$manifests audit/$id/audit.json"
+          done
+          [ -f /tmp/threads.json ] || echo "[]" > /tmp/threads.json
+          if [ -z "$manifests" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"; echo "summary=no audits touched" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          node .github/scripts/audit-gate.mjs /tmp/threads.json $manifests > /tmp/gate.json
+          cat /tmp/gate.json
+          echo "ok=$(jq -r .ok /tmp/gate.json)" >> "$GITHUB_OUTPUT"
+          echo "summary=$(jq -r .summary /tmp/gate.json)" >> "$GITHUB_OUTPUT"
+
+      - name: Post consistency status
+        uses: actions/github-script@v9
+        env:
+          GATE_OK: ${{ steps.gate.outputs.ok }}
+          GATE_SUMMARY: ${{ steps.gate.outputs.summary }}
+          GATE_SHA: ${{ steps.commit.outputs.sha }}
+        with:
+          script: |
+            await github.rest.repos.createCommitStatus({
+              owner: context.repo.owner, repo: context.repo.repo,
+              sha: process.env.GATE_SHA,
+              state: "success",
+              context: "consistency",
+              description: ((process.env.GATE_OK === "true" ? "" : "Advice: ") + (process.env.GATE_SUMMARY || "")).slice(0, 140),
+            });
+
+  consistency:
+    name: audit checks
+    if: github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.pull_request.head.ref || github.ref }}
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - run: npm ci
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Scope every gate below to only the audits this PR touches, so one audit's
+      # PR is never blocked by another audit's state.
+      - name: Determine audits on this PR
+        id: scope
+        env:
+          BASE_REF: ${{ github.event.pull_request.base.ref || 'main' }}
+        run: |
+          base="$BASE_REF"
+          git fetch origin "$base" --depth=1 || true
+          ids=$(git diff --name-only "origin/$base...HEAD" -- 'audit/**' 2>/dev/null \
+            | sed -n 's#^audit/\([^/]*\)/.*#\1#p' | sort -u | tr '\n' ' ')
+          echo "ids=$ids" >> "$GITHUB_OUTPUT"
+          echo "audits on this PR: ${ids:-<none>}"
+
+      - name: Fetch review threads
+        if: github.event.pull_request != null
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const q = `query($owner:String!,$repo:String!,$num:Int!){
+              repository(owner:$owner,name:$repo){
+                pullRequest(number:$num){
+                  reviewThreads(first:100){ nodes { isResolved comments(first:50){ nodes { body } } } }
+                }
+              }
+            }`;
+            const r = await github.graphql(q, {
+              owner: context.repo.owner, repo: context.repo.repo,
+              num: context.payload.pull_request.number,
+            });
+            const threads = r.repository.pullRequest.reviewThreads.nodes.map((t) => ({
+              isResolved: t.isResolved,
+              comments: t.comments.nodes.map((c) => ({ body: c.body })),
+            }));
+            require("fs").writeFileSync("/tmp/threads.json", JSON.stringify(threads));
+
+      - name: Consistency gate
+        id: gate
+        env:
+          IDS: ${{ steps.scope.outputs.ids }}
+        run: |
+          [ -f /tmp/threads.json ] || echo "[]" > /tmp/threads.json
+          manifests=""
+          for id in $IDS; do
+            [ -f "audit/$id/audit.json" ] && manifests="$manifests audit/$id/audit.json"
+          done
+          if [ -z "$manifests" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"; echo "summary=no audits touched" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          node .github/scripts/audit-gate.mjs /tmp/threads.json $manifests > /tmp/gate.json
+          cat /tmp/gate.json
+          echo "ok=$(jq -r .ok /tmp/gate.json)" >> "$GITHUB_OUTPUT"
+          echo "summary=$(jq -r .summary /tmp/gate.json)" >> "$GITHUB_OUTPUT"
+
+      - name: Post consistency status
+        uses: actions/github-script@v9
+        env:
+          GATE_OK: ${{ steps.gate.outputs.ok }}
+          GATE_SUMMARY: ${{ steps.gate.outputs.summary }}
+          GATE_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
+        with:
+          script: |
+            await github.rest.repos.createCommitStatus({
+              owner: context.repo.owner, repo: context.repo.repo,
+              sha: process.env.GATE_SHA,
+              state: "success",
+              context: "consistency",
+              description: ((process.env.GATE_OK === "true" ? "" : "Advice: ") + (process.env.GATE_SUMMARY || "")).slice(0, 140),
+            });

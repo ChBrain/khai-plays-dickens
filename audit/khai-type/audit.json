@@ -1,0 +1,7 @@
+{
+  "id": "khai-type",
+  "review": {
+    "rubrics": ["khai-type"],
+    "targets": ["."]
+  }
+}

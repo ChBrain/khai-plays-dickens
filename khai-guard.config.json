@@ -1,0 +1,56 @@
+{
+  "source": ["plays/**"],
+  "test": ["tests/**", ".github/workflows/**", ".husky/**"],
+  "exemptRenames": true,
+  "licensePolicy": {
+    "packages": ["package.json"],
+    "packageLicenses": ["SEE LICENSE IN LICENSE and LICENSE-CODE"]
+  },
+  "branchScope": {
+    "shared": [
+      ".changeset/**",
+      "package.json",
+      "package-lock.json",
+      "CHANGELOG.md",
+      ".prettierrc",
+      ".prettierignore",
+      ".gitignore",
+      ".npmrc",
+      ".nvmrc",
+      "LICENSE",
+      "LICENSE-CODE",
+      "SECURITY.md",
+      "registry.json"
+    ],
+    "riders": [{ "pattern": "management/orders/**", "fallback": "governance" }],
+    "lanes": [
+      { "pattern": "play/*", "layer": "solution", "allow": ["plays/**"] },
+      {
+        "pattern": "governance/*",
+        "layer": "governance",
+        "allow": [
+          ".github/**",
+          ".husky/**",
+          "khai-guard.config.json",
+          "tests/**",
+          "README.md",
+          "GEMINI.md",
+          "CLAUDE.md",
+          "REFERENCE.md",
+          "REFERENCES.md",
+          "management/**",
+          "audit/**"
+        ]
+      },
+      { "pattern": "changeset-release/*", "layer": "general", "allow": [] },
+      {
+        "pattern": "dependabot/*",
+        "layer": "general",
+        "allow": ["**/package.json", "**/package-lock.json", ".github/workflows/**"]
+      },
+      { "pattern": "chore/*", "layer": "general", "allow": [] },
+      { "pattern": "fix/*", "layer": "general", "allow": [] },
+      { "pattern": "docs/*", "layer": "general", "allow": [] }
+    ]
+  }
+}

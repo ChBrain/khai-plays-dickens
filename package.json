@@ -1,0 +1,52 @@
+{
+  "name": "@chbrain/khai-plays-dickens",
+  "version": "0.0.0",
+  "description": "khai plays: the Dickens production house. Plays staged with khai; the source is credited where it is in the public domain.",
+  "type": "module",
+  "exports": {
+    ".": "./package.json",
+    "./package.json": "./package.json",
+    "./registry.json": "./registry.json"
+  },
+  "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBrain/khai-plays-dickens.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "files": [
+    "plays/**",
+    "registry.json",
+    "README.md",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "engine": "plays-dickens",
+    "card": {
+      "wire": "The Dickens production house: a collection of khai plays."
+    }
+  },
+  "scripts": {
+    "test": "vitest run",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "version": "changeset version && khai-tests registry build",
+    "release": "changeset publish"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.8",
+    "@chbrain/khai-arch": "^0.1.0",
+    "@chbrain/khai-language": "^0.1.0",
+    "@chbrain/khai-tests": "^0.1.0",
+    "@chbrain/khai-guard": "^0.1.0",
+    "@chbrain/khai-review": "^0.1.0",
+    "@chbrain/khai-pack": "^0.0.3",
+    "vitest": "^4.1.8",
+    "prettier": "^3.3.0",
+    "husky": "^9.1.0"
+  }
+}

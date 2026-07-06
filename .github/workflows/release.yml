@@ -1,0 +1,65 @@
+name: release
+
+# Changesets-driven release for a khai plays house.
+#
+# On every push to main:
+#   * If unreleased changeset files exist, the action opens/updates a
+#     "Version Packages" PR that bumps the version and writes the CHANGELOG.
+#     Merging that PR consumes the changesets.
+#   * If there are no pending changesets (the version PR was just merged),
+#     the action runs `changeset publish`, which publishes the house package
+#     to GitHub Packages and pushes its git tag.
+#
+# ── Token requirements ───────────────────────────────────────────────────────
+# RELEASE_TOKEN must be a PAT with:
+#   * Contents: Read and write   (push the changeset-release/main branch + tags)
+#   * Pull requests: Read and write   (open the Version PR)
+# The built-in GITHUB_TOKEN cannot drive the git pushes here: GitHub suppresses
+# workflow runs on commits made by GITHUB_TOKEN (anti-recursion), so the Version
+# PR would never get CI and could never be merged green.
+
+on:
+  push:
+    branches: [main]
+
+concurrency: release-${{ github.ref }}
+
+permissions:
+  contents: write
+  pull-requests: write
+  packages: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      HUSKY: "0"
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.RELEASE_TOKEN }}
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .nvmrc
+          registry-url: "https://npm.pkg.github.com"
+          scope: "@chbrain"
+          cache: "npm"
+
+      - name: install
+        run: npm ci
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: test
+        run: npm test
+
+      - name: changesets release
+        uses: changesets/action@v1
+        with:
+          version: npm run version
+          publish: npm run release
+        env:
+          GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
