@@ -1,13 +1,19 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "plays": [
     {
       "kind": "play",
       "id": "ccb_001_a_christmas_carol",
       "title": "A Christmas Carol",
       "description": "The reclamation of a tight-fisted calculator under the audit of three spirits and a chain-bound ghost."
+    },
+    {
+      "kind": "play",
+      "id": "ccb_002_the_chimes",
+      "title": "The Chimes",
+      "description": "A goblin story of bells that rang an old year out, auditing a ticket-porter's lost faith in humanity."
     }
   ]
 }
