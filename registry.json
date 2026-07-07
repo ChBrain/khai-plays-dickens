@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "plays": [
     {
       "kind": "play",
@@ -26,6 +26,12 @@
       "id": "ccb_004_the_battle_of_life",
       "title": "The Battle of Life",
       "description": "A love story, staging the quiet battle of self-sacrifice fought between two sisters on an ancient battlefield."
+    },
+    {
+      "kind": "play",
+      "id": "ccb_005_the_haunted_man",
+      "title": "The Haunted Man",
+      "description": "The ghost's bargain, staging a chemist's flight from memory and the moral infection of oblivion in a college town."
     }
   ]
 }
