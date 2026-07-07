@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "plays": [
     {
       "kind": "play",
@@ -14,6 +14,12 @@
       "id": "ccb_002_the_chimes",
       "title": "The Chimes",
       "description": "A goblin story of bells that rang an old year out, auditing a ticket-porter's lost faith in humanity."
+    },
+    {
+      "kind": "play",
+      "id": "ccb_003_the_cricket_on_the_hearth",
+      "title": "The Cricket on the Hearth",
+      "description": "A fairy tale of home, staging the testing of a carrier's trust and the protective illusions of a poor toy-maker."
     }
   ]
 }
