@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "plays": [
     {
       "kind": "play",
@@ -62,6 +62,12 @@
       "id": "cdn_005_barnaby_rudge",
       "title": "Barnaby Rudge",
       "description": "Gordon Riots of Eighty, staging locksmith duty, apprentice mutiny, and mob frenzy."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_006_martin_chuzzlewit",
+      "title": "Martin Chuzzlewit",
+      "description": "A story of selfishness and hypocrisy, staging architectural deception, speculative bubbles, and swampy moral reform."
     }
   ]
 }
