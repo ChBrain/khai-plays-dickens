@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "plays": [
     {
       "kind": "play",
@@ -38,6 +38,12 @@
       "id": "cdn_001_the_pickwick_papers",
       "title": "The Pickwick Papers",
       "description": "The travels of the Pickwickians, staging naive benevolence audited by a breach-of-promise suit and the Fleet Prison."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_002_oliver_twist",
+      "title": "Oliver Twist",
+      "description": "Staging the workhouse economy, Fagin's pickpocket academy, and Monks's plot to destroy Oliver's inheritance."
     }
   ]
 }
