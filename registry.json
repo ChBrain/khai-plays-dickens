@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "plays": [
     {
       "kind": "play",
@@ -56,6 +56,12 @@
       "id": "cdn_004_the_old_curiosity_shop",
       "title": "The Old Curiosity Shop",
       "description": "Pilgrimage of Nell and Grandfather, staging curiosity trade, usurious foreclosure, and country flight."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_005_barnaby_rudge",
+      "title": "Barnaby Rudge",
+      "description": "Gordon Riots of Eighty, staging locksmith duty, apprentice mutiny, and mob frenzy."
     }
   ]
 }
