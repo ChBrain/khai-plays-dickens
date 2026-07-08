@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "plays": [
     {
       "kind": "play",
@@ -32,6 +32,12 @@
       "id": "ccb_005_the_haunted_man",
       "title": "The Haunted Man",
       "description": "The ghost's bargain, staging a chemist's flight from memory and the moral infection of oblivion in a college town."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_001_the_pickwick_papers",
+      "title": "The Pickwick Papers",
+      "description": "The travels of the Pickwickians, staging naive benevolence audited by a breach-of-promise suit and the Fleet Prison."
     }
   ]
 }
