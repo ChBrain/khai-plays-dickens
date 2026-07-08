@@ -35,11 +35,11 @@ The current status of the Dickens productions within this house:
   - `[ ]` `cdn_014_our_mutual_friend` — Planned
   - `[ ]` `cdn_015_the_mystery_of_edwin_drood` — Planned
 - **The Christmas Books (CCB)**
-  - `[ ]` `ccb_001_a_christmas_carol` — Planned
-  - `[ ]` `ccb_002_the_chimes` — Planned
-  - `[ ]` `ccb_003_the_cricket_on_the_hearth` — Planned
-  - `[ ]` `ccb_004_the_battle_of_life` — Planned
-  - `[ ]` `ccb_005_the_haunted_man_and_the_ghosts_bargain` — Planned
+  - `[x]` `ccb_001_a_christmas_carol` — Staged
+  - `[x]` `ccb_002_the_chimes` — Staged
+  - `[x]` `ccb_003_the_cricket_on_the_hearth` — Staged
+  - `[x]` `ccb_004_the_battle_of_life` — Staged
+  - `[x]` `ccb_005_the_haunted_man_and_the_ghosts_bargain` — Staged
 - **The Shorter Fiction and Sketches (CSF)**
   - `[ ]` `csf_001_sketches_by_boz` — Planned
   - `[ ]` `csf_002_the_uncommercial_traveller` — Planned
