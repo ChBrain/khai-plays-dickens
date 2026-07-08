@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "plays": [
     {
       "kind": "play",
@@ -50,6 +50,12 @@
       "id": "cdn_003_nicholas_nickleby",
       "title": "Nicholas Nickleby",
       "description": "Fortunes of a young gentleman, staging Yorkshire school economy, theatrical diversion, and Ralph's usury."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_004_the_old_curiosity_shop",
+      "title": "The Old Curiosity Shop",
+      "description": "Pilgrimage of Nell and Grandfather, staging curiosity trade, usurious foreclosure, and country flight."
     }
   ]
 }
