@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "plays": [
     {
       "kind": "play",
@@ -44,6 +44,12 @@
       "id": "cdn_002_oliver_twist",
       "title": "Oliver Twist",
       "description": "Staging the workhouse economy, Fagin's pickpocket academy, and Monks's plot to destroy Oliver's inheritance."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_003_nicholas_nickleby",
+      "title": "Nicholas Nickleby",
+      "description": "Fortunes of a young gentleman, staging Yorkshire school economy, theatrical diversion, and Ralph's usury."
     }
   ]
 }
