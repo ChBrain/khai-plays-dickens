@@ -2,6 +2,9 @@
   "source": ["plays/**"],
   "test": ["tests/**", ".github/workflows/**", ".husky/**"],
   "exemptRenames": true,
+  "changesetPolicy": {
+    "countDrivenAdd": ["plays/*/play_*.md"]
+  },
   "licensePolicy": {
     "packages": ["package.json"],
     "packageLicenses": ["SEE LICENSE IN LICENSE and LICENSE-CODE"]

@@ -66,3 +66,29 @@ jobs:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: npx khai-guard branch-check --branch "$HEAD_REF" --base "$BASE_SHA" --head "$HEAD_SHA"
+  khai-changeset-check:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - name: install
+        run: npm ci
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: changeset presence gate
+        # Exempt the bot lanes that never author changesets: the changesets
+        # "Version Packages" PR (changeset-release/*) consumes them, and
+        # Dependabot (dependabot/*) ships only dep bumps. khai-guard also
+        # exempts the release branch internally; the dependabot skip is here.
+        if: ${{ !startsWith(github.head_ref, 'changeset-release/') && !startsWith(github.head_ref, 'dependabot/') }}
+        env:
+          HEAD_REF: ${{ github.head_ref }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: npx khai-guard changeset-check --branch "$HEAD_REF" --base "$BASE_SHA" --head "$HEAD_SHA"
