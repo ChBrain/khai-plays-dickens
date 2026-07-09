@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "plays": [
     {
       "kind": "play",
@@ -68,6 +68,12 @@
       "id": "cdn_006_martin_chuzzlewit",
       "title": "Martin Chuzzlewit",
       "description": "A story of selfishness and hypocrisy, staging architectural deception, speculative bubbles, and swampy moral reform."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_007_dombey_and_son",
+      "title": "Dombey and Son",
+      "description": "Staging mercantile pride, corporate treachery, railway fate, and family reconciliation."
     }
   ]
 }
