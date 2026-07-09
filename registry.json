@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "plays": [
     {
       "kind": "play",
@@ -98,6 +98,12 @@
       "id": "cdn_011_little_dorrit",
       "title": "Little Dorrit",
       "description": "A drama of imprisonment and delay, staging the debtors' prison, Circumlocution Office, and speculation."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_012_a_tale_of_two_cities",
+      "title": "A Tale of Two Cities",
+      "description": "A drama of resurrection and violence, staging the dual cities, Madame Defarge's register, and Carton's sacrifice."
     }
   ]
 }
