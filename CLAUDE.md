@@ -32,19 +32,24 @@ Never `--no-verify`. Never merge; open the PR and stop.
 
 ## Versioning
 
-The minor version IS the play count, computed not chosen. The `version` script
-runs `khai-tests registry build`, which sets the version from the play count:
+The minor version IS the play count, computed not chosen; the **Version Packages**
+PR is the deploy gate every release passes through. The `version` script runs
+`npx khai-tests registry build`, which sets the version from the play count:
 `0.<count>.0` (the minor is the count, the patch resets to 0), reconciling both
-`package.json` and `registry.json`. The build is the single writer of the
-version; never hand-edit it.
+`package.json` and `registry.json`. The build is the single writer of the version
+number; never hand-edit it.
 
-- **Adding a play** -> no changeset. The play PR runs `khai-tests registry build`,
-  which moves the minor to the new play count and resets the patch to 0
-  (`0.<count>.0`); `changeset publish` ships it. A per-play changeset would
-  re-bump the patch on top of the minor the build already moved, the
-  `0.<count>.1` drift to avoid.
-- **A non-play change** (governance, formatting, a fix to existing content) ->
-  a `patch` changeset; it ships at the same play count.
+- **Adding a play** -> a `minor` changeset. The play PR carries it, so the deploy
+  is steered through the Version Packages PR and the CHANGELOG names the play.
+  `changeset version` bumps the minor and the build reconciles it back to the play
+  count, resetting the patch to 0 (`0.<count>.0`). It **must** be `minor`: a
+  `patch` (or empty) changeset survives the reconcile (count === minor) and drifts
+  the version to `0.<count>.1`, so the `changeset-check` gate rejects it.
+- **A fix to existing content** (ships package `files`) -> a `patch` changeset; it
+  ships at the same play count (`0.<count>.1`).
+- **A change that ships nothing** (governance, tooling, docs, tests) -> an
+  **empty** changeset (`npx changeset add --empty`); it records the PR and merges
+  green without republishing identical content.
 
 A non-zero major resets the minor while the count keeps climbing, so a house
 stays `0.x`; the numbering guard rejects a major bump.
