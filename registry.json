@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "plays": [
     {
       "kind": "play",
@@ -92,6 +92,12 @@
       "id": "cdn_010_hard_times",
       "title": "Hard Times",
       "description": "A drama of industrial labor, staging the conflict between Fact and Fancy, school fact-grinding, and a circus escape."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_011_little_dorrit",
+      "title": "Little Dorrit",
+      "description": "A drama of imprisonment and delay, staging the debtors' prison, Circumlocution Office, and speculation."
     }
   ]
 }
