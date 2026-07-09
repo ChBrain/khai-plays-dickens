@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "plays": [
     {
       "kind": "play",
@@ -80,6 +80,12 @@
       "id": "cdn_008_david_copperfield",
       "title": "David Copperfield",
       "description": "A personal history of growth and memory, staging step-parent tyranny, fawning blackmail, and bohemian optimism."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_009_bleak_house",
+      "title": "Bleak House",
+      "description": "A drama of legal delay, staging Chancery paralysis, litigant obsession, and detective investigation."
     }
   ]
 }
