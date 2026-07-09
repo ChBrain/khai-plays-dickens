@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "plays": [
     {
       "kind": "play",
@@ -110,6 +110,12 @@
       "id": "cdn_013_great_expectations",
       "title": "Great Expectations",
       "description": "A drama of social ambition and class snobbery, staging Satis House decay, a convict benefactor, and the forge sanctuary."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_014_our_mutual_friend",
+      "title": "Our Mutual Friend",
+      "description": "A drama of wealth and rebirth, staging dust-heaps, a river scavenger economy, and Jenny Wren's dolls' workshop."
     }
   ]
 }
