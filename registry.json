@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "plays": [
     {
       "kind": "play",
@@ -104,6 +104,12 @@
       "id": "cdn_012_a_tale_of_two_cities",
       "title": "A Tale of Two Cities",
       "description": "A drama of resurrection and violence, staging the dual cities, Madame Defarge's register, and Carton's sacrifice."
+    },
+    {
+      "kind": "play",
+      "id": "cdn_013_great_expectations",
+      "title": "Great Expectations",
+      "description": "A drama of social ambition and class snobbery, staging Satis House decay, a convict benefactor, and the forge sanctuary."
     }
   ]
 }
