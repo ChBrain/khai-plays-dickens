@@ -19,14 +19,14 @@ The scope of this house covers the canonical corpus:
 The current status of the Dickens productions within this house:
 
 - **The Novels (CDN)**
-  - `[ ]` `cdn_001_the_pickwick_papers` — Planned
-  - `[ ]` `cdn_002_oliver_twist` — Planned
-  - `[ ]` `cdn_003_nicholas_nickleby` — Planned
-  - `[ ]` `cdn_004_the_old_curiosity_shop` — Planned
-  - `[ ]` `cdn_005_barnaby_rudge` — Planned
-  - `[ ]` `cdn_006_martin_chuzzlewit` — Planned
-  - `[ ]` `cdn_007_dombey_and_son` — Planned
-  - `[ ]` `cdn_008_david_copperfield` — Planned
+  - `[x]` `cdn_001_the_pickwick_papers` — Staged
+  - `[x]` `cdn_002_oliver_twist` — Staged
+  - `[x]` `cdn_003_nicholas_nickleby` — Staged
+  - `[x]` `cdn_004_the_old_curiosity_shop` — Staged
+  - `[x]` `cdn_005_barnaby_rudge` — Staged
+  - `[x]` `cdn_006_martin_chuzzlewit` — Staged
+  - `[x]` `cdn_007_dombey_and_son` — Staged
+  - `[x]` `cdn_008_david_copperfield` — Staged
   - `[ ]` `cdn_009_bleak_house` — Planned
   - `[ ]` `cdn_010_hard_times` — Planned
   - `[ ]` `cdn_011_little_dorrit` — Planned
