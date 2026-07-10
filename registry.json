@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.20.0",
+  "version": "0.21.0",
   "plays": [
     {
       "kind": "play",
@@ -122,6 +122,12 @@
       "id": "cdn_015_the_mystery_of_edwin_drood",
       "title": "The Mystery of Edwin Drood",
       "description": "A drama of mystery and double lives, staging cathedral town shadows, John Jasper's drug-dreams, and Datchery's inquiry."
+    },
+    {
+      "kind": "play",
+      "id": "csf_001_sketches_by_boz",
+      "title": "Sketches by Boz",
+      "description": "A panoramic observation of London street life, parish beadle charity, and middle-class boarding houses."
     }
   ]
 }
