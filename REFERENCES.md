@@ -41,7 +41,7 @@ The current status of the Dickens productions within this house:
   - `[x]` `ccb_004_the_battle_of_life` — Staged
   - `[x]` `ccb_005_the_haunted_man_and_the_ghosts_bargain` — Staged
 - **The Shorter Fiction and Sketches (CSF)**
-  - `[ ]` `csf_001_sketches_by_boz` — Planned
+  - `[x]` `csf_001_sketches_by_boz` — Staged
   - `[ ]` `csf_002_the_uncommercial_traveller` — Planned
   - `[ ]` `csf_003_christmas_stories` — Planned
   - `[ ]` `csf_004_master_humphreys_clock` — Planned
