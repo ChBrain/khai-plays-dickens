@@ -43,7 +43,7 @@ The current status of the Dickens productions within this house:
 - **The Shorter Fiction and Sketches (CSF)**
   - `[x]` `csf_001_sketches_by_boz` — Staged
   - `[x]` `csf_002_the_uncommercial_traveller` — Staged
-  - `[ ]` `csf_003_christmas_stories` — Planned
+  - `[x]` `csf_003_christmas_stories` — Staged
   - `[ ]` `csf_004_master_humphreys_clock` — Planned
   - `[ ]` `csf_005_holiday_romance` — Planned
   - `[ ]` `csf_006_george_silvermans_explanation` — Planned
