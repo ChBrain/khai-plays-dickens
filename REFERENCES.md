@@ -27,13 +27,13 @@ The current status of the Dickens productions within this house:
   - `[x]` `cdn_006_martin_chuzzlewit` — Staged
   - `[x]` `cdn_007_dombey_and_son` — Staged
   - `[x]` `cdn_008_david_copperfield` — Staged
-  - `[ ]` `cdn_009_bleak_house` — Planned
-  - `[ ]` `cdn_010_hard_times` — Planned
-  - `[ ]` `cdn_011_little_dorrit` — Planned
-  - `[ ]` `cdn_012_a_tale_of_two_cities` — Planned
-  - `[ ]` `cdn_013_great_expectations` — Planned
-  - `[ ]` `cdn_014_our_mutual_friend` — Planned
-  - `[ ]` `cdn_015_the_mystery_of_edwin_drood` — Planned
+  - `[x]` `cdn_009_bleak_house` — Staged
+  - `[x]` `cdn_010_hard_times` — Staged
+  - `[x]` `cdn_011_little_dorrit` — Staged
+  - `[x]` `cdn_012_a_tale_of_two_cities` — Staged
+  - `[x]` `cdn_013_great_expectations` — Staged
+  - `[x]` `cdn_014_our_mutual_friend` — Staged
+  - `[x]` `cdn_015_the_mystery_of_edwin_drood` — Staged
 - **The Christmas Books (CCB)**
   - `[x]` `ccb_001_a_christmas_carol` — Staged
   - `[x]` `ccb_002_the_chimes` — Staged
