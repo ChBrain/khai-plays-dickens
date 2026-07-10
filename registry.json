@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "plays": [
     {
       "kind": "play",
@@ -140,6 +140,12 @@
       "id": "csf_003_christmas_stories",
       "title": "Christmas Stories",
       "description": "A festive collection of winter charity, lodging-house adoptions, street auctions, and railway junction redemptions."
+    },
+    {
+      "kind": "play",
+      "id": "csf_004_master_humphreys_clock",
+      "title": "Master Humphrey's Clock",
+      "description": "A framing narrative of clock club meetings, stored manuscripts, and the return of Samuel Pickwick and the Wellers."
     }
   ]
 }
