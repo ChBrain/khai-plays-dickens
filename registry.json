@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.24.0",
+  "version": "0.25.0",
   "plays": [
     {
       "kind": "play",
@@ -146,6 +146,12 @@
       "id": "csf_004_master_humphreys_clock",
       "title": "Master Humphrey's Clock",
       "description": "A framing narrative of clock club meetings, stored manuscripts, and the return of Samuel Pickwick and the Wellers."
+    },
+    {
+      "kind": "play",
+      "id": "csf_005_holiday_romance",
+      "title": "Holiday Romance",
+      "description": "A children's romance subverting grown-up rules through mock trials, magic fishbones, and pirate adventures."
     }
   ]
 }
