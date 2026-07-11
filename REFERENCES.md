@@ -45,7 +45,7 @@ The current status of the Dickens productions within this house:
   - `[x]` `csf_002_the_uncommercial_traveller` — Staged
   - `[x]` `csf_003_christmas_stories` — Staged
   - `[x]` `csf_004_master_humphreys_clock` — Staged
-  - `[ ]` `csf_005_holiday_romance` — Planned
+  - `[x]` `csf_005_holiday_romance` — Staged
   - `[ ]` `csf_006_george_silvermans_explanation` — Planned
 
 ## Origin
