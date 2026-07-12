@@ -36,5 +36,3 @@ The chapel vestry and college chambers, utilizing the marriage license.
 - [ ] George secures the marriage license in London
 - [ ] He meets Adelina and Wharton secretly to plan the wedding
 - [ ] He solemnizes the wedding and accepts the public blame
-
----

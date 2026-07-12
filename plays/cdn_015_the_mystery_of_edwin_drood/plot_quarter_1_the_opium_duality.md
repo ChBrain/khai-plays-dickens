@@ -33,4 +33,3 @@ Jasper lies hallucinating in the London den, while Rosa Bud sings at the cathedr
 ## Tension
 
 Jasper's secret drug-dreams feed his dark, murderous obsession with Rosa, while Neville's hot temper creates a convenient rivalry.
----

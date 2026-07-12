@@ -53,4 +53,3 @@ The narrative system of winter charity and lodging-house adoptions, observing th
 ## Stakes
 
 [Doctor Marigold](persona_marigold.md)'s cheap-jacks-cart business and [Lirriper Lodgings](place_lirriper_lodgings.md) respectability, balanced against [Lodger](position_lodger.md) loyalty, the [Orphan Adoption Plan](plan_orphan_adoption.md), and Mugby poverty.
----

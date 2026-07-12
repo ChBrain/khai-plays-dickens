@@ -33,4 +33,3 @@ The painful, quiet martyrdom of a selfless man whose every act of charity is mis
 ## Echo
 
 A persistent warning that the loudest, most public displays of religious charity are often covers for greed, while true self-sacrifice must accept public misunderstanding in silence.
----

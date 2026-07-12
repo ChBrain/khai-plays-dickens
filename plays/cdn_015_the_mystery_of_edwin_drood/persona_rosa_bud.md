@@ -34,4 +34,3 @@ Her sweet, childish exterior hides a sharp intuition, recognizing Jasper's dark 
 ## Tell
 
 She shrinks away when Jasper approaches the piano, looking at him with terrified eyes.
----

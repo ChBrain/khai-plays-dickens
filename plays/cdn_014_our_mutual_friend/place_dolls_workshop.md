@@ -33,4 +33,3 @@ A colorful, quiet sanctuary of creative work and fancy to Lizzie Hexam.
 ## Withheld
 
 Soot, dirt, and river dangers, which the bright sewing room refuse to permit.
----

@@ -33,4 +33,3 @@ A quiet, observational path to the sleepless traveller walking through the night
 ## Withheld
 
 Warmth, food, and friendly conversation, which the cold nocturnal streets refuse to give.
----

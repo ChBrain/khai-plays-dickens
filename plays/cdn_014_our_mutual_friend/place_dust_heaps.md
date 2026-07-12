@@ -33,4 +33,3 @@ A source of sudden, immense fortune to the heirs of the dustman Harmon.
 ## Withheld
 
 Beauty, clean air, and moral integrity, which the dusty grey mounds refuse to harbor.
----

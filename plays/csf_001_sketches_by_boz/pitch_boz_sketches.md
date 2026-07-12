@@ -33,4 +33,3 @@ The comic energy of Boz's sharp observation of character and the quiet tragedy o
 ## Echo
 
 A persistent warning that social respectability is often a thin mask for vanity, and that the true pulse of the city beats in its humblest streets.
----

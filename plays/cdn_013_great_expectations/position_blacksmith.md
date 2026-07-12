@@ -33,4 +33,3 @@ The companionship of his apprentice when he goes to London, but never his patien
 ## Drives
 
 The honest, simple endurance of manual labor, remaining true to his friends and his forge despite their snobbish neglect.
----

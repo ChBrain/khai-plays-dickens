@@ -35,5 +35,3 @@ A small, leather-bound pocket notebook filled with hand-written notes and street
 - Last year, Boz bought this leather notebook to collect street observations.
 - Today, Boz records coach journeys and boarding-house characters.
 - The notes are converted into published newspapers sketches.
-
----

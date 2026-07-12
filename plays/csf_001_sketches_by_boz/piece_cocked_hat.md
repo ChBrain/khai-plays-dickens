@@ -35,5 +35,3 @@ A large, gold-laced cocked hat worn by the parish Beadle, representing local ves
 - For years, old Beadles wore this cocked hat to announce meetings.
 - Today, Mr. Bung wears it proudly to announce the vestry elections.
 - The hat remains a symbol of authority, though mocked by street boys.
-
----

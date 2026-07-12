@@ -34,4 +34,3 @@ Her silent isolation is broken by Doctor Marigold's patient, fatherly education,
 ## Tell
 
 She looks at Marigold, repeating his hand signs with a quick smile.
----

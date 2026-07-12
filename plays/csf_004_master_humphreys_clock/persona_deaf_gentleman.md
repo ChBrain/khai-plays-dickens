@@ -34,4 +34,3 @@ His deaf isolation is broken by the warm friendship of Master Humphrey's study, 
 ## Tell
 
 He cup his hand behind his ear, smiling benevolently as he watches the readers.
----

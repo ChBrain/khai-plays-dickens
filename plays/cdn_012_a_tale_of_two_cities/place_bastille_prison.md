@@ -33,4 +33,3 @@ A grim, hopeless confinement for political prisoners, representing aristocratic 
 ## Withheld
 
 Justice, trial, and contact with the outside world, which the thick stone walls refuse to allow.
----

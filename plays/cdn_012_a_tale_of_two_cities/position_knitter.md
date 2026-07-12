@@ -33,4 +33,3 @@ The capacity for mercy, and the security of revolutionary power when she is shot
 ## Drives
 
 The relentless, cold execution of revolutionary vengeance, keeping a mechanical record of all who must die.
----

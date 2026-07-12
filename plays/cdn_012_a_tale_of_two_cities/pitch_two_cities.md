@@ -33,4 +33,3 @@ The terror of the revolutionary tribunal trials and the desperation of Carton's 
 ## Echo
 
 A persistent assurance that death is conquered by self-sacrificing love, and that a willing sacrifice brings the truest resurrection.
----

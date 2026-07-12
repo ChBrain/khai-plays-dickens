@@ -33,4 +33,3 @@ A secret schoolroom court to judge parents and teachers.
 ## Withheld
 
 Boring lectures, and adult corrections, which the child judge refuses to tolerate.
----

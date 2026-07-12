@@ -33,4 +33,3 @@ Mrs. Lirriper carries keys, while Major Jackman sits in the parlor teaching Jemm
 ## Tension
 
 Mrs. Lirriper defends her lodgings from debt and gossip, while they raise the orphan with fatherly and motherly devotion.
----

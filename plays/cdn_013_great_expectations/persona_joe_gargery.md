@@ -34,4 +34,3 @@ His gentle, passive nature makes him a victim of his wife's hot temper, but his 
 ## Tell
 
 He pats Pip on the head, saying in his mild voice: "What larks, Pip, old chap!"
----

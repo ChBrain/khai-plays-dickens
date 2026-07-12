@@ -33,4 +33,3 @@ Neville is escorted by guards, while Jasper confronts Rosa Bud by the sundial an
 ## Tension
 
 Edwin is gone and Neville is ruined, while Rosa's terror forces her to seek immediate escape.
----

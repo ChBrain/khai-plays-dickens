@@ -33,4 +33,3 @@ Mr. Pickwick adjusts his spectacles to read a manuscript, while in the kitchen S
 ## Tension
 
 The Pickwickian humor and club debates bring a lively warmth, before Master Humphrey's passing stops the clock forever.
----

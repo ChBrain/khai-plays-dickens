@@ -53,4 +53,3 @@ The narrative system of Cloisterham cathedral shadows and London opium addiction
 ## Stakes
 
 [Rosa Bud](persona_rosa_bud.md)'s safety and [Dick Datchery](persona_datchery.md)'s watch, balanced against [Jasper](persona_jasper.md)'s double life, [Neville Landless](persona_neville_landless.md)'s ruined reputation, and the [Opium Dreams](process_opium_dreams.md) process.
----

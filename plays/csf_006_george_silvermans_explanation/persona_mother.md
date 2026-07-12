@@ -34,4 +34,3 @@ Her abusive, angry treatment of George is a product of her extreme poverty and d
 ## Tell
 
 She screams from her straw bed: "You are a useless, ungrateful child, George!"
----

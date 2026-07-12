@@ -34,4 +34,3 @@ His secret drug dreams and dark obsession with Rosa drive him to plan the murder
 ## Tell
 
 He bites his lip, staring intensely at Rosa, and mutters of his opium visions.
----

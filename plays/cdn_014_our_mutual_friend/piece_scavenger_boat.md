@@ -35,5 +35,3 @@ A small, dirty, dark rowboat, with worn oars and a body hook, smelling of river-
 - For years, Gaffer Hexam rowed this boat in Saint Antoine search of bodies.
 - Today, he fishes John Harmon's supposed body out of the water.
 - The boat capsizes in the river, drowning Gaffer.
-
----

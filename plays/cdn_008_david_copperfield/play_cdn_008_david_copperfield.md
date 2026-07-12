@@ -53,4 +53,3 @@ The life and memory of David Copperfield, from his childhood under Murdstone's t
 ## Stakes
 
 [David](persona_david.md)'s personal history memory and [Aunt Betsey](persona_aunt_betsey.md)'s Dover cottage sanctuary, balanced against [Uriah Heep](persona_uriah_heep.md)'s fawning blackmail and [Murdstone](persona_murdstone.md)'s step-parent tyranny.
----

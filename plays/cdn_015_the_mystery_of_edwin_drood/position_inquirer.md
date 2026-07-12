@@ -33,4 +33,3 @@ The comfort of his true identity, but never his patience or his silent, systemat
 ## Drives
 
 The silent, systematic collection of evidence to expose the truth behind the disappearance of Edwin Drood.
----

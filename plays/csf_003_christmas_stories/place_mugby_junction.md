@@ -33,4 +33,3 @@ A busy transit hub and social observation to the passenger Barbox Brothers.
 ## Withheld
 
 Domestic quiet, and stable, unchanging surroundings, which the busy railway junction refuses to grant.
----

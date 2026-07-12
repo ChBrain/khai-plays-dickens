@@ -33,4 +33,3 @@ A busy domestic room where Alicia works to support her father Watkins's family.
 ## Withheld
 
 Easy riches, and fairy godmother interventions, which the fairy godmother refuses to grant until Alicia has done her best.
----

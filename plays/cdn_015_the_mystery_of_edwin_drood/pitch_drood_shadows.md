@@ -33,4 +33,3 @@ The terror of John Jasper's silent, drug-fueled obsession and the mystery of Edw
 ## Echo
 
 A persistent warning that respectability can mask a dark, double life, and that the shadows of the past will eventually be tracked down by silent inquiry.
----

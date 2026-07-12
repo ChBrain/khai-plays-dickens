@@ -35,5 +35,3 @@ A yellowed parchment will, sealed in a tin box, hidden deep inside one of the du
 - Years ago, the old miser Harmon hid this will in the dust-mound.
 - Today, Silas Wegg digs up the tin box to blackmail Boffin.
 - The will is produced as Boffin exposes Wegg's plot.
-
----

@@ -53,4 +53,3 @@ The narrative system of sleepless nocturnal walks and institutional inspections 
 ## Stakes
 
 [Traveller](persona_traveller.md)'s nocturnal-wandering process and [place_wapping_workhouse.md](place_wapping_workhouse.md) conditions, balanced against [position_guardian.md](position_guardian.md) authority, the [Workhouse Inspection Plan](plan_workhouse_inspection.md), and London poverty.
----

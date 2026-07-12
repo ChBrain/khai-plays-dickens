@@ -34,4 +34,3 @@ His tough, weather-beaten nature is a response to long night journeys in cold we
 ## Tell
 
 He whips his horses, calling out to them, and blows his horn in the cold night air.
----

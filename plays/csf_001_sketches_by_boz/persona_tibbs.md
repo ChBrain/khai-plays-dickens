@@ -34,4 +34,3 @@ Her respectable, busy business is a response to her husband's laziness, forcing 
 ## Tell
 
 She rings the dinner bell, complaining of the price of beef and the laziness of her servant.
----

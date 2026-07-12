@@ -33,4 +33,3 @@ A quiet, healthy country recovery place for the young George.
 ## Withheld
 
 Preston cellar dampness, and urban fever, which the rural stone farmhouse excludes.
----

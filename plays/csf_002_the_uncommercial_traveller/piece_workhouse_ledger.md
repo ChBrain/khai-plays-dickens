@@ -35,5 +35,3 @@ A large, heavy, leather-bound ledger with thick paper, containing names of local
 - For years, the workhouse nurse wrote names in this registry.
 - Today, she opens the ledger to register a new group of poor inmates.
 - The ledger remains a record of local parish poverty and charity.
-
----

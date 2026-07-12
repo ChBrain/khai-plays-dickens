@@ -33,4 +33,3 @@ The young George sits on dirty straw in the dark cellar, while his mother coughs
 ## Tension
 
 The child's misery and survival are balanced by the dark, fever-ridden death of his abusive parents.
----

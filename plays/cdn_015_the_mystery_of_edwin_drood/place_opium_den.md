@@ -33,4 +33,3 @@ A secret, drug-induced escape and dark hallucinations to John Jasper.
 ## Withheld
 
 Respectability, fresh air, and Cloisterham's quiet cathedral music, which the filthy den refuses to allow.
----

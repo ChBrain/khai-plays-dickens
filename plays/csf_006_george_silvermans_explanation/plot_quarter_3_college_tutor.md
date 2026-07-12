@@ -33,4 +33,3 @@ George sits at a study desk explaining a book to Adelina, who listens quietly in
 ## Tension
 
 George's intellectual success is balanced by his silent, unexpressed love for his wealthy student.
----

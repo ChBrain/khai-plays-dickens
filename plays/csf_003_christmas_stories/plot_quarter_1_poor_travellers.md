@@ -33,4 +33,3 @@ The poor travellers sit at the dining table eating beef, while the host pours ho
 ## Tension
 
 The cold winter night outside is balanced by the warm charity and shared stories inside the old hall.
----

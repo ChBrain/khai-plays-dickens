@@ -34,4 +34,3 @@ His grand, military title and politeness cover a lonely bachelor's heart, adopti
 ## Tell
 
 He bows formally, twirling his grey mustache and quoting mathematical rules to Jemmy.
----

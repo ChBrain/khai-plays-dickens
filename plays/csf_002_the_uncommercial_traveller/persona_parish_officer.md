@@ -34,4 +34,3 @@ His respectable, self-satisfied manner covers a complete indifference to the rea
 ## Tell
 
 He pats his pockets, declaring: "Our parish is managed with the highest efficiency, sir."
----

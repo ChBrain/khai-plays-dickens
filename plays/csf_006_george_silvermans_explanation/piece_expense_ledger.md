@@ -35,5 +35,3 @@ A large, leather-bound financial ledger containing hand-written figures of Georg
 - For years, Brother Hawkyard recorded every penny spent on George in this ledger.
 - Today, he audits the ledger in the vestry to show his charity.
 - The ledger remains a record of his self-promoting religious control.
-
----

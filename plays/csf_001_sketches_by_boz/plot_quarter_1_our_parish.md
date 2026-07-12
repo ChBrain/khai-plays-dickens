@@ -33,4 +33,3 @@ The Beadle Mr. Bung announces the parish election candidates, while vestrymen de
 ## Tension
 
 The Beadle tries to preserve his pompous dignity while parish politics collapse into petty arguments.
----

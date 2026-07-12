@@ -36,5 +36,3 @@ The Conciergerie cell and Paris streets, utilizing Tellson's travel clearances.
 - [ ] Carton blackmails Barsad to enter Darnay's prison cell
 - [ ] He drugs Darnay and switches clothes with him in the cell
 - [ ] Barsad carries the unconscious Darnay out to the waiting carriage
-
----

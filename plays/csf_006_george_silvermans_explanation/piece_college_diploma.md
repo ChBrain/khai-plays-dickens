@@ -35,5 +35,3 @@ A large parchment diploma with academic seals, stored in a protective tube.
 - Last year, George received this diploma from Cambridge.
 - Today, he keeps it in his college study as a record of his achievement.
 - The diploma remains a symbol of his intellectual escape from the cellar.
-
----

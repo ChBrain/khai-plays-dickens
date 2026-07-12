@@ -34,4 +34,3 @@ His childhood neglect in the Preston cellar left him with a deep, permanent feel
 ## Tell
 
 He sighs, writing in his notebook: "I am George Silverman, and this is my explanation."
----

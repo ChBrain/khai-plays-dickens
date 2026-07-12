@@ -33,4 +33,3 @@ A quiet, respectable center of cathedral worship and secret nocturnal crypt sear
 ## Withheld
 
 Answers, sunlight, and a resolution to the mystery, which the old stone walls refuse to reveal.
----

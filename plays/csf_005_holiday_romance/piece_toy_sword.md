@@ -35,5 +35,3 @@ A wooden toy sword, carved and painted silver, with a cord wrapped hilt.
 - Last year, Robin Redforth carved this wooden sword.
 - Today, Captain Boldheart draws it to defeat the Latin schoolmaster.
 - The toy sword remains a symbol of child revolt and boyish adventure.
-
----

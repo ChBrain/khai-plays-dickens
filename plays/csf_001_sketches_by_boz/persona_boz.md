@@ -34,4 +34,3 @@ His constant search for humor in the streets is a response to the city's dark po
 ## Tell
 
 He opens his pocket notebook, writing rapidly as he watches passengers on the omnibus.
----

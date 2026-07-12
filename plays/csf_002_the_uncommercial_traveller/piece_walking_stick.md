@@ -35,5 +35,3 @@ A strong, simple wooden walking stick with a smooth brass handle, worn by consta
 - For years, the Traveller carried this stick on his walking trips.
 - Today, he leans on the stick during his midnight tours of London.
 - The stick remains his loyal companion on every road.
-
----

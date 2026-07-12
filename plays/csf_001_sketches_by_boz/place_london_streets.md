@@ -33,4 +33,3 @@ A constant, changing spectacle of social fashion and poverty to the observer.
 ## Withheld
 
 Quiet, clean air, and rural stillness, which the crowded city refuse to grant.
----

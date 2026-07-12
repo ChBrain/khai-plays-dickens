@@ -34,4 +34,3 @@ Her wealth and social position are managed by her selfish mother, finding in Geo
 ## Tell
 
 She looks at George, saying: "Thank you, Mr. Silverman, for these quiet lessons."
----

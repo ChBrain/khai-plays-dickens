@@ -34,4 +34,3 @@ Her quiet, self-sacrificing nature makes her a servant to her proud family, but 
 ## Tell
 
 She moves quietly, sewing with neat stitches, and looks out from the Marshalsea window.
----

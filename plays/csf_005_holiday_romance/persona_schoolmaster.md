@@ -34,4 +34,3 @@ His pedantic, severe authority is completely subverted on the pirate ship, where
 ## Tell
 
 He waves a Latin grammar book, shouting: "Translate this sentence, Redforth, or face the rod!"
----

@@ -33,4 +33,3 @@ An honest, simple livelihood of manual labor and domestic affection to young Pip
 ## Withheld
 
 Social status, wealth, and Estella's cold admiration, which the simple forge soot refuses to provide.
----

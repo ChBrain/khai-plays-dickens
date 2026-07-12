@@ -34,4 +34,3 @@ His respectable, formal schooling is a thin veneer covering a violent, self-dest
 ## Tell
 
 He bites his lip, clenching his fists until they bleed, while watching Wrayburn's movements.
----

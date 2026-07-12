@@ -34,4 +34,3 @@ Her mercenary declarations are a defense against poverty, but her real affection
 ## Tell
 
 She tosses her curls, declaring: "I am a mercenary girl, and I must marry for money!"
----

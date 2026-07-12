@@ -33,4 +33,3 @@ The Traveller walks through empty markets and locked tollhouses, while Homeless 
 ## Tension
 
 The Traveller's insomnia drives him to witness the silent, neglected poverty of the night city.
----

@@ -33,4 +33,3 @@ His dignity, when the parish boys tease him or when vestry politics collapse int
 ## Drives
 
 The preservation of his own pompous dignity and authority within the parish boundaries.
----

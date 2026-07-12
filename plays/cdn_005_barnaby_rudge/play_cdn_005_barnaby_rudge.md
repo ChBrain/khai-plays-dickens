@@ -53,4 +53,3 @@ The eruption of religious fanaticism and mob violence in London, where a simple-
 ## Stakes
 
 [Barnaby](persona_barnaby.md)'s life and [Gabriel Varden](persona_varden.md)'s locksmith integrity, balanced against [Sim Tappertit](persona_tappertit.md)'s apprentice mutiny and the mob's destruction.
----

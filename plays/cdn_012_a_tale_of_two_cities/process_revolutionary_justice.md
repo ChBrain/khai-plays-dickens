@@ -33,4 +33,3 @@ Madame Defarge's knitted register and the Guillotine's heavy iron blade, meeting
 ## Echo
 
 Darnay is condemned, but Sydney Carton switches places with him, satisfying the Tribunal's count while Darnay escapes.
----

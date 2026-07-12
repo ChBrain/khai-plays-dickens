@@ -53,4 +53,3 @@ The struggle between Thomas Gradgrind's cold educational system of Facts and the
 ## Stakes
 
 [Gradgrind](persona_gradgrind.md)'s educational reputation and [Louisa](persona_louisa.md)'s emotional survival, balanced against [Bounderby](persona_bounderby.md)'s industrial tyranny, the [Fact Grinding](process_fact_grinding.md) process, and the safety of the [Weaver](position_weaver.md).
----

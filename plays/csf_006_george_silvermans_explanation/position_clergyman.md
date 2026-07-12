@@ -33,4 +33,3 @@ His reputation, when his selfless marriage arrangement is publicly branded as a 
 ## Drives
 
 The faithful execution of his calling and the quiet protection of his students.
----

@@ -34,4 +34,3 @@ His silent, passive presence represents the extreme poverty of the city, survivi
 ## Tell
 
 He pulls his thin coat tighter around himself, staring silently at the dark river.
----

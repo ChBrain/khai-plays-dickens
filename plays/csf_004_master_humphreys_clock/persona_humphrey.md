@@ -34,4 +34,3 @@ His deformity and solitary life drove him to seek comfort in the study, founding
 ## Tell
 
 He winds the ancient grandfather clock with a large brass key, smiling at his friends.
----

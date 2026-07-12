@@ -33,4 +33,3 @@ Mrs. Tibbs rings the dinner bell and carves the beef, while Mr. Cochran bows pol
 ## Tension
 
 Mrs. Tibbs tries to preserve the respectability of her house while resident conflicts threaten to dissolve it.
----

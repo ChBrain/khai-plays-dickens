@@ -34,4 +34,3 @@ His cheerful, active role hides a deep devotion to Humphrey, taking steps to ens
 ## Tell
 
 He opens a bundle of manuscripts, declaring: "Here is a story of London's past, my friends."
----

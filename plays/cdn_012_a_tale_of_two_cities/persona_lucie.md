@@ -34,4 +34,3 @@ Her domestic sweetness makes her a passive center of others' devotion, but her l
 ## Tell
 
 She strokes her father's hair, speaking in a calm, reassuring voice of their London home.
----

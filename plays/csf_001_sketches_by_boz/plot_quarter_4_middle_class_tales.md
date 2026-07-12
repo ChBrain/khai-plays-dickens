@@ -33,4 +33,3 @@ Sparkins quotes poetry at a party, while Albert sits in a silent kitchen with hi
 ## Tension
 
 Middle-class social ambitions collapse into comic exposure, while the poor face the silent tragedy of debt.
----

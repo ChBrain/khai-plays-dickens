@@ -33,4 +33,3 @@ Sydney Carton looks dissolutely at his reflection, while Lucie sits under the pl
 ## Tension
 
 Carton's vow of devotion to Lucie is recorded, while Darnay's marriage is celebrated, but the dark storm in France begins to loom.
----

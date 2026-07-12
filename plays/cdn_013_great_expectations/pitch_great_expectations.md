@@ -33,4 +33,3 @@ The emotional tension of Estella's cold pride, Miss Havisham's frozen grief, and
 ## Echo
 
 A persistent warning that unearned wealth and social ambition rot the moral character, while the simple, honest labor of the forge remains the only true sanctuary.
----

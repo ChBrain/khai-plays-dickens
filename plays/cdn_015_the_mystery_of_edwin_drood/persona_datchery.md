@@ -34,4 +34,3 @@ His false identity and white wig hide a secret inquirer, whose quiet investigati
 ## Tell
 
 He looks at his cupboard door, marking a thick white chalk line to record his discoveries.
----

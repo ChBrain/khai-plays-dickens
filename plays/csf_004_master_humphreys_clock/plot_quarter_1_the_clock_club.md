@@ -33,4 +33,3 @@ Master Humphrey winds the old grandfather clock with a brass key, while Jack Red
 ## Tension
 
 Humphrey's solitary study is transformed into a warm sanctuary of shared stories and friendship.
----

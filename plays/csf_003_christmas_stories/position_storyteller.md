@@ -33,4 +33,3 @@ His loneliness, when he shares a warm fire and a story with poor travellers on C
 ## Drives
 
 The cultivation of Christmas charity and the collection of stories of human reconciliation.
----

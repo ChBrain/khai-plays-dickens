@@ -36,5 +36,3 @@ Boffin's mansion and offices, utilizing John Harmon's secret cooperation.
 - [ ] Boffin begins reading books about misers in public
 - [ ] He abuses John Rokesmith in front of Bella Wilfer
 - [ ] Bella rejects the miser's wealth to marry Rokesmith
-
----

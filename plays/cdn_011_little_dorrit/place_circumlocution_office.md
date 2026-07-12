@@ -33,4 +33,3 @@ Endless delays, paper shuffling, and bureaucratic gridlock to all who seek assis
 ## Withheld
 
 Answers, actions, and rapid relief, which the dusty desks and red tape refuse to supply.
----

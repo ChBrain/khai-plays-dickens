@@ -33,4 +33,3 @@ The toy sword and baby doll, meeting Mrs. Orange's household play and Boldheart'
 ## Echo
 
 The children successfully subvert adult rules, demonstrating that childhood imagination is superior to adult anxiety.
----

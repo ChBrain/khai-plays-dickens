@@ -33,4 +33,3 @@ Joe hammers at the [Gargery Anvil](piece_gargery_anvil.md), while the convict fi
 ## Tension
 
 Pip falls in love with Estella and becomes ashamed of the simple forge, longing to become a gentleman.
----

@@ -53,4 +53,3 @@ The destruction of Dombey's cold mercantile pride through the death of his belov
 ## Stakes
 
 [Dombey](persona_dombey.md)'s mercantile pride and [Florence](persona_florence.md)'s daughterly love, balanced against [James Carker](persona_carker.md)'s treacherous embezzlements and the cold demands of the firm.
----

@@ -33,4 +33,3 @@ A quiet, warm sanctuary for late-night storytelling and club meetings.
 ## Withheld
 
 Modern city noise, and cold streets, which the old cozy study refuses to permit.
----

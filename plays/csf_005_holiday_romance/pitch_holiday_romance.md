@@ -33,4 +33,3 @@ The subversion of dry, boring adult rules by the bright, romantic imagination of
 ## Echo
 
 A persistent reminder that children see the world with a clean simplicity that puts the complicated, money-obsessed anxieties of grown-ups to shame.
----

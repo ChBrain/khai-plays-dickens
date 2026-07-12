@@ -33,4 +33,3 @@ The Deaf Gentleman sits in a high-backed armchair by the fire, cupping his hand 
 ## Tension
 
 The Deaf Gentleman's silent isolation is overcome by the quiet, welcoming friendship of the study.
----

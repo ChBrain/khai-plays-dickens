@@ -33,4 +33,3 @@ The right to live in England, his fortune to state confiscation, and his life to
 ## Drives
 
 The creation of a gentleman out of a poor boy who once helped him on the marshes, using his fortune to buy status.
----

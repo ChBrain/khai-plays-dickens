@@ -36,5 +36,3 @@ The middle-class drawing rooms of London, utilizing Sparkins's fashionable ident
 - [ ] Sparkins charms the Maldertons at a suburban party
 - [ ] He visits the Maldertons in their suburban villa to quote poetry
 - [ ] He is discovered as a common linen-draper's clerk in a London shop
-
----

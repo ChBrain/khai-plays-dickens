@@ -34,4 +34,3 @@ His dignified pride is a defense against the shame of debt, but it makes him ung
 ## Tell
 
 He bows with grand dignity, accepts a small coin, and strokes his white hair.
----

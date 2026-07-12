@@ -33,4 +33,3 @@ Dr. Manette sits in the dark attic room hammering at the [Shoemakers Bench](piec
 ## Tension
 
 Dr. Manette's fragile sanity is threatened by the sudden transition, but Lucie's care secures his initial recovery.
----

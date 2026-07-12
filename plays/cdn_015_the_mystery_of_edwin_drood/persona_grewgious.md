@@ -34,4 +34,3 @@ His dry, legalistic manner is a cover for deep, fatherly devotion, taking immedi
 ## Tell
 
 He runs his fingers through his sparse hair, declaring: "I am a dry man, a mere angular man of law."
----

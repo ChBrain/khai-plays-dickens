@@ -33,4 +33,3 @@ Arthur lies sick in his cell while Amy quietens him, and Mrs. Clennam's old hous
 ## Tension
 
 The speculation bubble is resolved in total ruin, but Arthur and Amy find redemption and marriage outside the Marshalsea walls.
----

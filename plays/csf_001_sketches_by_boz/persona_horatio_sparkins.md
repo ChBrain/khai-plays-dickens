@@ -34,4 +34,3 @@ His fashionable, poetic identity is a fraudulent mask to hide his low employment
 ## Tell
 
 He quotes a line of poetry, passing his hand through his curled hair with a mysterious sigh.
----

@@ -33,4 +33,3 @@ Mr. Jaggers's law desk and hand-washing basin, meeting Pip's debts and his snobb
 ## Echo
 
 Pip's fortune is confiscated when Magwitch is arrested, and the ruined Pip is rescued and nursed by the faithful Joe Gargery.
----

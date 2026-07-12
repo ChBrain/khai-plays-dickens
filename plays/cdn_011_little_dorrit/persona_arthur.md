@@ -34,4 +34,3 @@ His grave sense of guilt and duty makes him susceptible to Mrs. Clennam's cold c
 ## Tell
 
 He speaks in a measured, gentle voice, asking of the family's past debts.
----

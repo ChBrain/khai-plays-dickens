@@ -35,5 +35,3 @@ A large wax baby doll dressed in fine lace and ribbons, with glass eyes.
 - Last month, Kitty Clever received this wax baby doll.
 - Today, Mrs. Orange cradles the doll and scolds her grown-up nurse.
 - The doll remains a symbol of child subversion and play household management.
-
----

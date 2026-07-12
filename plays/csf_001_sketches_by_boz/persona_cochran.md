@@ -34,4 +34,3 @@ His polite, grand manner is a cover for his small, lonely life, relying on Mrs. 
 ## Tell
 
 He bows formally, declaring: "It is a most remarkable day, indeed."
----

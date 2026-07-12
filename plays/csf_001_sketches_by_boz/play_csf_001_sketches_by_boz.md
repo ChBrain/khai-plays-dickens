@@ -53,4 +53,3 @@ The narrative system of early Victorian London street scenes and parochial offic
 ## Stakes
 
 [Boz](persona_boz.md)'s street-observation process and [Tibbs](persona_tibbs.md)'s boarding-house sanctuary, balanced against [Beadle](persona_beadle.md)'s cocked hat authority, the [Social Climbing Plan](plan_social_climbing.md), and London poverty.
----

@@ -33,4 +33,3 @@ A gathering place for the revolutionary Jacques, fostering plans of rebellion an
 ## Withheld
 
 Tellson's quiet London peace and security, which the Saint Antoine crowds refuse to permit.
----

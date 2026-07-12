@@ -33,4 +33,3 @@ Boz's reporters notebook and walking shoes, meeting Mr. Bung's announcements and
 ## Echo
 
 Boz publishes sketches of these scenes, which record the social energy and poverty of Victorian London.
----

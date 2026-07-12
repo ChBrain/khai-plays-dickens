@@ -35,5 +35,3 @@ A large, colorful wooden cart containing domestic goods, hardware, and books for
 - For years, Doctor Marigold lived and worked inside this wooden cart.
 - Today, he stands on the footboard of the cart to hawk goods to the crowd.
 - The cart remains his home, where he adopts and raises Sophy.
-
----

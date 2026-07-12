@@ -34,4 +34,3 @@ His dissolute, alcohol-fueled life is a waste of talent, but his physical resemb
 ## Tell
 
 He looks at his reflection, mutters of his wasted life, and says: "It is a far, far better thing that I do..."
----

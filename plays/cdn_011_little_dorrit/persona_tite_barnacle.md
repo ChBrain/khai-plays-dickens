@@ -34,4 +34,3 @@ His dignified, formal authority is a shield to protect his family's sinecures, e
 ## Tell
 
 He adjusts his high collar, peers over his spectacles, and murmurs: "We cannot facilitate this, sir."
----

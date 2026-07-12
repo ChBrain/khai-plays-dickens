@@ -36,5 +36,3 @@ Master Humphrey's study and the clock case, utilizing the grandfather clock.
 - [ ] Humphrey invites Jack Redburn to form the clock club
 - [ ] He winds the grandfather clock at the start of the meeting
 - [ ] He takes a manuscript from the clock case to read to the members
-
----

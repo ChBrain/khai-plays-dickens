@@ -33,4 +33,3 @@ The children sit at school desks as a jury, while a child judge sits in the teac
 ## Tension
 
 The dry authority of the schoolroom is subverted by the playful solemnity of the children's court.
----

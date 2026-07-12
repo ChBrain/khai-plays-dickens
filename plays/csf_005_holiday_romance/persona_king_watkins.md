@@ -34,4 +34,3 @@ His royal title is a contrast to his office clerk poverty, reflecting the helple
 ## Tell
 
 He sighs heavily, saying: "Alicia, my salary is late again, and we have no money for bread."
----

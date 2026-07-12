@@ -53,4 +53,3 @@ The narrative duality of London and Paris during the French Revolution, tracing 
 ## Stakes
 
 [Lucie](persona_lucie.md)'s golden thread of domestic affection and [Sydney Carton](persona_carton.md)'s redemption, balanced against [Madame Defarge](persona_madame_defarge.md)'s knitted vengeance and [Revolutionary Justice](process_revolutionary_justice.md).
----

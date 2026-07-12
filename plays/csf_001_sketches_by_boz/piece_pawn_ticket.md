@@ -35,5 +35,3 @@ A small, thin piece of paper printed with details of a pawn-shop loan, kept in a
 - Years ago, poor families pawned jewelry to buy bread.
 - Today, Albert carrying this ticket reminds him of his own poverty.
 - The ticket remains unredeemed as a silent record of ruin.
-
----

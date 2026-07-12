@@ -33,4 +33,3 @@ Tite Barnacle's office desks and red tape, meeting the persistent inquiries of A
 ## Echo
 
 Arthur is stymied for months, while the department continues its paper-shuffling course, untouched by reform.
----

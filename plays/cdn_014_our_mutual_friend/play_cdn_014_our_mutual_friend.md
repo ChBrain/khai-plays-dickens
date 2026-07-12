@@ -53,4 +53,3 @@ The narrative system of London wealth and Thames survival, following John Harmon
 ## Stakes
 
 [Lizzie Hexam](persona_lizzie_hexam.md)'s purity and [Jenny Wren](persona_jenny_wren.md)'s dolls' dressmaker sanctuary, balanced against [Bradley Headstone](persona_bradley_headstone.md)'s obsession, Silas Wegg's greed, and the [Dust Scavenging](process_dust_scavenging.md) process.
----

@@ -33,4 +33,3 @@ The comfort of business routine, and the safety of London when sent to revolutio
 ## Drives
 
 The loyal, business-like service to the bank and its clients, risking safety to fulfill duty.
----

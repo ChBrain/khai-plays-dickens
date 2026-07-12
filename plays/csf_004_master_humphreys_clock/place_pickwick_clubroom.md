@@ -33,4 +33,3 @@ A lively, respectable meeting place for Pickwick's branch club.
 ## Withheld
 
 Solitude, and silence, which the constant laughter of the club members refuses to permit.
----

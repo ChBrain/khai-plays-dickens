@@ -34,4 +34,3 @@ His sharp wit and humorous Wellerisms are a shield to protect Mr. Pickwick, ensu
 ## Tell
 
 He winks, declaring: "As the coachman said when he ran over the old lady, it is a most unfortunate accident."
----

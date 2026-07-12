@@ -35,5 +35,3 @@ A heavy, black iron gate, spiked at the top, operated by the prison turnkey's ma
 - For decades, the turnkey locked this gate every night at nine.
 - Today, Arthur Clennam finds himself locked inside when the gate shuts.
 - The gate remains open as Arthur and Amy leave the prison together.
-
----

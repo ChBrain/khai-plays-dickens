@@ -33,4 +33,3 @@ A grim show of frozen grief and cold pride, teaching Estella to break hearts.
 ## Withheld
 
 Warmth, sunlight, and domestic affection, which the dark barred rooms refuse to admit.
----

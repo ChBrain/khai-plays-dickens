@@ -53,4 +53,3 @@ The narrative system of George Silverman's misunderstood self-sacrifice, observi
 ## Stakes
 
 [George Silverman](persona_george.md)'s clergyman position and [place_chapel_vestry.md](place_chapel_vestry.md) reputation, balanced against [Charity Ward](position_charity_ward.md) loyalty, the [Secret Marriage Plan](plan_secret_marriage.md), and Brother Hawkyard's hypocrisy.
----

@@ -33,4 +33,3 @@ Magwitch holds out his rough hands to Pip, while Pip recoils in horror and Jagge
 ## Tension
 
 Pip's illusions are shattered: his fortune comes from a criminal, not Miss Havisham, leaving him ruined and heart-broken.
----

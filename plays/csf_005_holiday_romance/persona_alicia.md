@@ -34,4 +34,3 @@ Her sensible, hard-working domestic care is a contrast to her father's helpless 
 ## Tell
 
 She rubs her pocket, saying: "We must do our best first, papa, and then the magic will help us."
----
