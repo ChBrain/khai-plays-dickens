@@ -46,7 +46,7 @@ The current status of the Dickens productions within this house:
   - `[x]` `csf_003_christmas_stories` — Staged
   - `[x]` `csf_004_master_humphreys_clock` — Staged
   - `[x]` `csf_005_holiday_romance` — Staged
-  - `[ ]` `csf_006_george_silvermans_explanation` — Planned
+  - `[x]` `csf_006_george_silvermans_explanation` — Staged
 
 ## Origin
 
