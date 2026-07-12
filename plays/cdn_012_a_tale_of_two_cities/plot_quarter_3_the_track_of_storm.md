@@ -33,4 +33,3 @@ Madame Defarge knits names into the [Defarge Register](piece_defarge_register.md
 ## Tension
 
 Darnay's arrest is complete, exposing him to the Tribunal, while Dr. Manette uses his status as a former prisoner to protect him.
----

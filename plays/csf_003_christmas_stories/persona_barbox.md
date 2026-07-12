@@ -34,4 +34,3 @@ His dry, business-like manner is a response to early disappointment, seeking in 
 ## Tell
 
 He consults a railway timetable, sighing as he looks at the signal lamps.
----

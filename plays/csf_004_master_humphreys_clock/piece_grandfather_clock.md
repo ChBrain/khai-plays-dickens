@@ -35,5 +35,3 @@ A tall, ancient wooden grandfather clock with a steady, heavy ticking sound and 
 - For years, Master Humphrey wound this old grandfather clock.
 - Today, the clock's case stores the manuscripts read by the club.
 - The clock stops ticking when Master Humphrey passes away.
-
----

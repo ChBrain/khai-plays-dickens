@@ -33,4 +33,3 @@ The festive warmth of family reconciliation and the quiet power of personal char
 ## Echo
 
 A persistent warning that true comfort and family are not bought with money, but found in the simple acts of adopting the orphan, welcoming the traveller, and listening to the neglected.
----

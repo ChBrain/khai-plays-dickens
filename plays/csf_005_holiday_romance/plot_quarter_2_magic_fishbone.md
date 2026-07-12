@@ -33,4 +33,3 @@ Alicia cooks at the stove, while King Watkins sighs at the table and Fairy Grand
 ## Tension
 
 Alicia must work hard first before she is allowed to use fairy magic to resolve their poverty.
----

@@ -35,5 +35,3 @@ A small, dried fishbone, kept clean and dry in Princess Alicia's pocket.
 - Last week, Alicia saved this fishbone from her father's dinner plate.
 - Today, she rubs the bone to wish for money when Watkins is in despair.
 - The fishbone remains a symbol of sensible reserve and final aid.
-
----

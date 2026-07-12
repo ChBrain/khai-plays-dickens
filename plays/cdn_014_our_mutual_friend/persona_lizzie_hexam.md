@@ -34,4 +34,3 @@ Her devotion to her brother Charley leads her to neglect herself, but her courag
 ## Tell
 
 She looks at the fire in the grate, seeing pictures of her brother's future in the glowing coals.
----

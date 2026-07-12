@@ -33,4 +33,3 @@ The quiet warmth of late-life friendship and the preservation of stories in the 
 ## Echo
 
 A persistent reminder that time passes steadily for all, but that stories shared among loyal friends around a warm hearth can preserve the memory of the past.
----

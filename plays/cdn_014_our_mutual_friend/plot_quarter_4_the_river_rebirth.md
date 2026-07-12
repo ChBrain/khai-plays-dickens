@@ -33,4 +33,3 @@ Lizzie rows Wrayburn to shore, while Bella and John celebrate their marriage and
 ## Tension
 
 The threats are resolved: the greed of Wegg is exposed, Headstone is dead, and John and Bella inherit the fortune in mutual love.
----

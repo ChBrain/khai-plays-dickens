@@ -33,4 +33,3 @@ Silas Wegg's ash-shovels and Gaffer's boat hook, meeting Noddy Boffin's cottage 
 ## Echo
 
 Silas Wegg finds the hidden will to blackmail Boffin, but his greed is defeated when John Harmon's true identity is revealed.
----

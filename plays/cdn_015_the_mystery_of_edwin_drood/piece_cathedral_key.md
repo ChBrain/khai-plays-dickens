@@ -35,5 +35,3 @@ A large, heavy, rusted iron key, which opens the dark vaults of the cathedral cr
 - For years, Durdles carried this key to inspect the stone vaults.
 - Today, John Jasper steals the key to explore the crypts at night.
 - The key is returned to Durdles's pocket before morning.
-
----

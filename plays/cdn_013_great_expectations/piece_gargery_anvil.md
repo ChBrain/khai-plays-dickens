@@ -35,5 +35,3 @@ A heavy, iron blacksmith's anvil, polished on the flat top, sitting on a wooden 
 - For years, Joe hammered iron horseshoe nails on this anvil.
 - Today, Joe sings the Old Clem song while striking the anvil.
 - Pip returns to stand beside the anvil after his expectations collapse.
-
----

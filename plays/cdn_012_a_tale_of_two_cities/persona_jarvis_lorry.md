@@ -34,4 +34,3 @@ His insistence that he is a "mere man of business" is a defense against emotiona
 ## Tell
 
 He adjusts his wig, pats his pockets, and declares: "Tellson's is a business house, my dear."
----

@@ -33,4 +33,3 @@ The Traveller walks through the changed, narrow streets of Dullborough, while th
 ## Tension
 
 The nostalgic memories of childhood are balanced against the real, cold decay of the old town.
----

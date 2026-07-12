@@ -33,4 +33,3 @@ The sense of real independence, and the capacity to live without the protective 
 ## Drives
 
 The preservation of personal pride and status within the narrow society of the debtors' prison.
----

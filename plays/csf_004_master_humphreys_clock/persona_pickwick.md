@@ -34,4 +34,3 @@ His benevolent, cheerful return brings Pickwickian warmth back, sharing his old 
 ## Tell
 
 He adjusts his gold-rimmed spectacles, smiling warmly at Master Humphrey.
----

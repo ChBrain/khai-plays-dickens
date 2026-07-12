@@ -33,4 +33,3 @@ George stands in the chapel vestry holding the marriage license, while Brother H
 ## Tension
 
 George's selfless arrange of Adelina's marriage is branded as bribery, accepting the public blame in silent sacrifice.
----

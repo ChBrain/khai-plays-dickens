@@ -35,5 +35,3 @@ A heavy, angled iron blade, suspended between two tall wooden posts, releasing w
 - Yesterday, the blade cut the necks of noblemen and thieves alike.
 - Today, it hangs ready for Charles Darnay in the public square.
 - Sydney Carton dies under the blade to buy Darnay's life.
-
----

@@ -34,4 +34,3 @@ His secret identity keeps Bella in the dark, but it allows him to test her love 
 ## Tell
 
 He writes notes in a pocket ledger, watching Bella Wilfer with a quiet, loving look.
----

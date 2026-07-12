@@ -34,4 +34,3 @@ Her cold, relentless drive for vengeance is fueled by the past crimes of the Evr
 ## Tell
 
 She knits silently at the wine shop counter, looking up with a cold, expressionless stare.
----

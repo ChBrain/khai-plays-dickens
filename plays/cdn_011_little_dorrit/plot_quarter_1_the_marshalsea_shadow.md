@@ -33,4 +33,3 @@ Amy sits sewing by the prison window under the [Marshalsea Shadow Pitch](pitch_m
 ## Tension
 
 Arthur's search for truth is stymied by bureaucratic delay, but his interest in Amy's family initiates the [Debt Clearance Plan](plan_debt_clearance.md).
----

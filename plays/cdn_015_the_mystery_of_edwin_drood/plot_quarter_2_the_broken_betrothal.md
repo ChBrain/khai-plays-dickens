@@ -33,4 +33,3 @@ Edwin and Rosa walk in the cathedral garden, while Jasper steals the [Cathedral 
 ## Tension
 
 The betrothal is ended, but Jasper continues his preparations, and the dinner sets the stage for the disappearance.
----

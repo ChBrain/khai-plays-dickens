@@ -34,4 +34,3 @@ Her cold, heartless behavior is the result of her upbringing, leaving her unable
 ## Tell
 
 She looks at Pip with a cold, mocking smile, declaring: "I have no heart, Pip."
----

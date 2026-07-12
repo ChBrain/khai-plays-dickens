@@ -34,4 +34,3 @@ His light-hearted, naive nature makes him blind to his uncle Jasper's dark obses
 ## Tell
 
 He turns a gold-and-ruby ring in his pocket, speaking of his plans for Egypt.
----

@@ -33,4 +33,3 @@ The sympathetic recording of the silent, nocturnal city and the quiet anger at a
 ## Echo
 
 A persistent reminder that beneath the busy surface of the commercial empire lies a vast, silent world of human neglect that can only be reached by quiet, personal transit.
----

@@ -33,4 +33,3 @@ Jaggers washes his hands in his dark office, while Pip spends money in his Londo
 ## Tension
 
 Pip's social ambition is fulfilled, but his moral character is corrupted by unearned wealth and snobbery.
----

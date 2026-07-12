@@ -34,4 +34,3 @@ His sleepless nights drive him to wander, turning his personal insomnia into a s
 ## Tell
 
 He taps his stout walking stick on the wet stones, taking a quiet drink from his leather flask.
----

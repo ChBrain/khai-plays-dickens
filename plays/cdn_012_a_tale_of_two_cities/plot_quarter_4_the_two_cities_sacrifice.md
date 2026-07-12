@@ -33,4 +33,3 @@ Carton stands on the scaffold looking up, while Madame Defarge is killed in a du
 ## Tension
 
 The mechanical violence of the Guillotine claims Carton, but his sacrifice achieves his own resurrection and Darnay's safety.
----

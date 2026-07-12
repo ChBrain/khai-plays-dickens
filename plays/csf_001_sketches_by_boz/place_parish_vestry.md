@@ -33,4 +33,3 @@ A quiet sanctuary for administrative business and beadle election debates.
 ## Withheld
 
 Modern, democratic progress, which the conservative parish vestry refuses to allow.
----

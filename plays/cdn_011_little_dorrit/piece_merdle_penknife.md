@@ -35,5 +35,3 @@ A small, sharp penknife with a tortoise-shell handle, usually kept in Merdle's v
 - For years, Merdle used this penknife to trim his nails.
 - Today, he borrows a penknife to commit suicide, exposing his frauds.
 - The knife is held as evidence as the financial bubble bursts.
-
----

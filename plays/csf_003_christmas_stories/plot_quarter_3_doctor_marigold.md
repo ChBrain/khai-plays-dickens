@@ -33,4 +33,3 @@ Doctor Marigold hawking goods on his cart footboard, while Sophy sits inside the
 ## Tension
 
 Marigold's public auction humor is balanced by his private, fatherly devotion to the silent child.
----

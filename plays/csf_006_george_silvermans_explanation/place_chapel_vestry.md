@@ -33,4 +33,3 @@ A respectable room for chapel business and financial audits.
 ## Withheld
 
 True religious humility, and silent faith, which the chapel vestry's self-promoting atmosphere refuses to allow.
----

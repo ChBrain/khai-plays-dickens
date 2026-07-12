@@ -34,4 +34,3 @@ His quiet, nostalgic conversations remind the Traveller of the passage of time a
 ## Tell
 
 He smiles warmly, asking: "Do you remember the old playing field, my boy?"
----

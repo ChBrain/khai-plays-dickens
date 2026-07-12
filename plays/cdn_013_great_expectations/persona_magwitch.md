@@ -34,4 +34,3 @@ His rough, criminal exterior hides a deep, simple gratitude, prompting him to ri
 ## Tell
 
 He eats roughly, stroking his grey hair, and barks: "I made you a gentleman, Pip!"
----

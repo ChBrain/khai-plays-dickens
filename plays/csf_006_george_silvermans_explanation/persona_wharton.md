@@ -34,4 +34,3 @@ His sincere love is blocked by Adelina's wealthy mother, relying on George's sec
 ## Tell
 
 He holds George's hand, saying: "Help us, Mr. Silverman, for we love each other sincerely."
----

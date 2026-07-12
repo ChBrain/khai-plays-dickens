@@ -34,4 +34,3 @@ His pompous, self-important manner hides a fear of being mocked by the parish bo
 ## Tell
 
 He taps his brass-headed cane on the stones, adjusting his gold-laced cocked hat.
----

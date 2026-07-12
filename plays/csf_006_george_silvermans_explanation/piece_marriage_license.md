@@ -35,5 +35,3 @@ An official parchment document with ecclesiastical seals, authorizing a wedding.
 - Yesterday, George secured this marriage license in London.
 - Today, he uses it to solemnize Adelina and Wharton's secret wedding.
 - The license remains a record of his silent, misunderstood self-sacrifice.
-
----

@@ -33,4 +33,3 @@ A sea deck for pirate adventures and schoolmaster captures.
 ## Withheld
 
 Latin lessons, and schoolroom punishments, which the pirate ship deck refuses to admit.
----

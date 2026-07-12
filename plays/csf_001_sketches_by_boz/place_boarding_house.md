@@ -33,4 +33,3 @@ A respectable middle-class home and sanctuary to eccentric residents.
 ## Withheld
 
 Privacy, peace, and quiet, which the constant boarding-house gossip refuses to permit.
----

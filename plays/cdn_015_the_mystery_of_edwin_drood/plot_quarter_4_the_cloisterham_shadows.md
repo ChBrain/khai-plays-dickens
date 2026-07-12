@@ -33,4 +33,3 @@ Grewgious comforts Rosa in London, while Datchery marks chalk scores behind his 
 ## Tension
 
 The watch is set and the secret is pursued, but the final truth remains wrapped in cathedral shadows.
----

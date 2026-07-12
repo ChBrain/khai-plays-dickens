@@ -35,5 +35,3 @@ A small, pocket-sized glass flask covered in dark leather, with a metal cup on t
 - For years, the Traveller filled this flask with brandy before journeys.
 - Today, he takes a drink from the flask in the cold night stagecoach.
 - The flask is refilled at coaching inns along the road.
-
----

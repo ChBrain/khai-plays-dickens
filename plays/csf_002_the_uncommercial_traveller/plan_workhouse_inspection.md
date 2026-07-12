@@ -36,5 +36,3 @@ The Wapping Workhouse courtyard and pauper wards, utilizing the matron's ledger 
 - [ ] The Traveller arrives at the Wapping Workhouse iron gates
 - [ ] He requests the workhouse matron to show the pauper wards
 - [ ] He reads the workhouse ledger to inspect inmate records
-
----

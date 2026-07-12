@@ -33,4 +33,3 @@ John Jasper's opium pipe and organ desk, meeting Rosa Bud's fear and Neville's a
 ## Echo
 
 Jasper mutters secrets in his drug dreams, which Princess Puffer records and uses to track him back to Cloisterham Cathedral.
----

@@ -35,5 +35,3 @@ A pair of round, gold-rimmed spectacles, kept in a leather case.
 - Years ago, Mr. Pickwick wore these spectacles on his travels.
 - Today, he puts them on to read manuscripts in the clock study.
 - The spectacles remain a symbol of his benevolent observation.
-
----

@@ -33,4 +33,3 @@ A dangerous livelihood of body scavenging, and a site of attempted murder and fi
 ## Withheld
 
 Purity, dry land, and fashionable comfort, which the slimy, cold waters refuse to provide.
----

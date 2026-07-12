@@ -33,4 +33,3 @@ His boredom, when he leads his schoolroom friends in a mock trial to punish the 
 ## Drives
 
 The subversion of adult authority and the validation of childhood imagination.
----

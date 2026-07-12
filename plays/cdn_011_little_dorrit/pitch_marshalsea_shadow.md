@@ -33,4 +33,3 @@ The anxiety of Mr. Merdle's sudden financial collapse and the threat of Rigaud/B
 ## Echo
 
 A persistent assurance that physical and mental walls can only be dissolved by quiet affection, selflessness, and the surrender of pride, which offer the only true release.
----

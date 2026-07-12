@@ -34,4 +34,3 @@ His apparent change into a cruel, greedy miser is a public act to test Bella's h
 ## Tell
 
 He beams warmly, adjusts his spectacles, and says: "We are simple people, my dear."
----

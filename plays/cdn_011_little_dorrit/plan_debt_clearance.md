@@ -36,5 +36,3 @@ The streets of London and Southwark, utilizing Pancks's pedigree research.
 - [ ] Arthur enlists Pancks to trace the Dorrit pedigree
 - [ ] Pancks discovers the unclaimed inheritance in the parish records
 - [ ] They pay the creditors and release William Dorrit from prison
-
----

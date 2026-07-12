@@ -34,4 +34,3 @@ Her stern, religious self-righteousness is a mask to hide her theft of Arthur's 
 ## Tell
 
 She sits rigidly in her wheelchair, muttering of her duty and her guilt, and stares at the dark walls.
----

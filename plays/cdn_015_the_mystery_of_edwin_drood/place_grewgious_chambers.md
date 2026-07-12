@@ -33,4 +33,3 @@ A secure, dry sanctuary and legal advice to Rosa Bud.
 ## Withheld
 
 Opium dreams, cathedral shadows, and Jasper's obsessive pursuit, which the quiet Staple Inn chambers refuse to permit.
----

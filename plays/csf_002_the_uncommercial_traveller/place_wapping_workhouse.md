@@ -33,4 +33,3 @@ A bleak, institutional refuge and daily bread to the parish poor.
 ## Withheld
 
 Comfort, freedom, and family hope, which the strict institutional walls refuse to permit.
----

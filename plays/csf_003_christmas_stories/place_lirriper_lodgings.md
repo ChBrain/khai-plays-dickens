@@ -33,4 +33,3 @@ A warm, loving, and respectable middle-class home to lodgers and orphans.
 ## Withheld
 
 Parish workhouse bleakness, and London street cold, which the Norfolk Street lodgings refuse to permit.
----

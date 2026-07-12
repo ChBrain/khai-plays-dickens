@@ -33,4 +33,3 @@ Jenny Wren sits in the [Dolls Workshop](place_dolls_workshop.md) sewing clothes,
 ## Tension
 
 Lizzie finds domestic peace, but she is pursued by suitors, while Bella rejects John Rokesmith's poor declarations of love.
----

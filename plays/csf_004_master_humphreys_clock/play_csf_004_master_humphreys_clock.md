@@ -53,4 +53,3 @@ The narrative system of Master Humphrey's clock club meetings, observing the def
 ## Stakes
 
 [Humphrey](persona_humphrey.md)'s manuscript-reading process and [place_clock_case.md](place_clock_case.md) security, balanced against [Listener](position_listener.md) loyalty, the [Club Meetings Plan](plan_club_meetings.md), and passage of time.
----

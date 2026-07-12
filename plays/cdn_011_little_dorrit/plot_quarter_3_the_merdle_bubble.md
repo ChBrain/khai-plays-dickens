@@ -33,4 +33,3 @@ Merdle slides his hands up his sleeves at a dinner party, while Mrs. Clennam sit
 ## Tension
 
 The speculation bubble reaches its height, drawing in all of London society, while the shadow of blackmail hangs over Clennam's house.
----

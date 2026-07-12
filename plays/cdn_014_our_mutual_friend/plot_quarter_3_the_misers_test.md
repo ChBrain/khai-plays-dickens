@@ -33,4 +33,3 @@ Boffin abuses John Rokesmith in public, while Wegg plots blackmail and Headstone
 ## Tension
 
 Bella is repulsed by Boffin's apparent miserly greed, while Wegg's threat to the estate is prepared.
----

@@ -53,4 +53,3 @@ The testing and purging of young Martin's selfishness in the speculative America
 ## Stakes
 
 [Young Martin](persona_young_martin.md)'s moral reform and his inheritance rights, balanced against [Pecksniff](persona_pecksniff.md)'s oily designs on the patriarch's wealth.
----

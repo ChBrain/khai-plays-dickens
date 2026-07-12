@@ -33,4 +33,3 @@ The Traveller's walking stick and travel flask, meeting the homeless under bridg
 ## Echo
 
 The Traveller publishes sketches of these night walks, recording the silent misery and beauty of London after dark.
----

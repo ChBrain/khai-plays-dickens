@@ -33,4 +33,3 @@ Magwitch lies dying in the prison cell, while Joe pats Pip on the head beside th
 ## Tension
 
 The expectations are gone and Magwitch is dead, but Pip finds redemption and moral sanctuary back at the blacksmith forge.
----

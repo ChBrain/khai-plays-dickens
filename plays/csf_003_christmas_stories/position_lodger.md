@@ -33,4 +33,3 @@ His isolation, when he adopts Mrs. Lirriper's home as his own family and helps r
 ## Drives
 
 The creation of a warm, supportive lodging-house family sanctuary in London.
----

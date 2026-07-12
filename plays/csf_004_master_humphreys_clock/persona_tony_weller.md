@@ -34,4 +34,3 @@ His stout, conservative coaching manner covers his pride in Sam, participating i
 ## Tell
 
 He puffs his pipe, declaring: "Beware of the vidders, Sammy!"
----

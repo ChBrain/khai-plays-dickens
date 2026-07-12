@@ -35,5 +35,3 @@ A bundle of yellowed papers covered in hand-written stories, stored inside the g
 - For years, Master Humphrey wrote these stories in his study.
 - Today, Jack Redburn takes a bundle from the clock to read to the club.
 - The manuscripts are preserved inside the clock for the club's meetings.
-
----

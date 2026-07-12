@@ -33,4 +33,3 @@ Doctor Marigold's handwritten book and cheap jack cart, meeting Mrs. Lirriper's 
 ## Echo
 
 Sophy learns to read and communicate, returning years later to Doctor Marigold as a happy, educated mother.
----

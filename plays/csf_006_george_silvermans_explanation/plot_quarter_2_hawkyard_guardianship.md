@@ -33,4 +33,3 @@ George reads school books at a farm table, while in the chapel vestry Brother Ha
 ## Tension
 
 George seeks academic recovery, while his guardian uses his childhood costs to secure public praise.
----

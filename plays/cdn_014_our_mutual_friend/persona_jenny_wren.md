@@ -34,4 +34,3 @@ Her sharp, cynical tongue is a defense against the pain of her crippled legs and
 ## Tell
 
 She taps her crutch on the floor, calling: "My bad child has come home drunk again!"
----

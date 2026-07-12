@@ -34,4 +34,3 @@ His honorable return to Paris is a noble duty, but it ignores the danger of revo
 ## Tell
 
 He speaks in an earnest, noble tone, declaring his renunciation of his family's estates.
----

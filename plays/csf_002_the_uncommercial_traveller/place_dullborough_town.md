@@ -33,4 +33,3 @@ A quiet, nostalgic journey into the past to the visiting traveller.
 ## Withheld
 
 The romantic, beautiful memories of childhood, which the real, decaying town refuses to show.
----

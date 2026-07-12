@@ -36,5 +36,3 @@ Captain Boldheart's pirate ship deck, utilizing the toy sword.
 - [ ] Boldheart sets sail in the ship _The Beauty_
 - [ ] He captures the Latin schoolmaster on the high seas
 - [ ] He forces the schoolmaster to eat Latin grammar books
-
----

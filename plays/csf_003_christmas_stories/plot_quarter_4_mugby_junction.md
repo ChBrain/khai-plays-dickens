@@ -33,4 +33,3 @@ Barbox Brothers walks the drafty station platforms, while Phoebe lies on her cou
 ## Tension
 
 The busy, impersonal transit of the railway junction is balanced by the quiet, redemptive friendship between Phoebe and the passenger.
----

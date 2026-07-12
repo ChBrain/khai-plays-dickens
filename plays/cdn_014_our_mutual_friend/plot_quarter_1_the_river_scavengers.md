@@ -33,4 +33,3 @@ Gaffer Hexam pulls a body from the river using the [Scavenger Boat](piece_scaven
 ## Tension
 
 Harmon's supposed death triggers the Boffin inheritance, while John Harmon secretly survives and enters Boffin's employ as Rokesmith.
----

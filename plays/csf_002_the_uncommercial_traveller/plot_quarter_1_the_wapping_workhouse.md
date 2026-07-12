@@ -33,4 +33,3 @@ The Traveller inspects the clean but bleak pauper beds, while the Workhouse Nurs
 ## Tension
 
 The Traveller seeks to expose the bleak realities of pauper life while the Workhouse Nurse enforces institutional rules.
----

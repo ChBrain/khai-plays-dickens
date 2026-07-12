@@ -34,4 +34,3 @@ His energetic, joking street auction manner is a cover for his deep grief over t
 ## Tell
 
 He rings a brass auction bell, shouting: "Here is a pair of boots, worth five shillings, selling for one!"
----

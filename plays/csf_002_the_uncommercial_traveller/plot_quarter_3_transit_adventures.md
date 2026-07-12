@@ -33,4 +33,3 @@ The Coachman whips his horses and blows his horn, while the Traveller shivers in
 ## Tension
 
 The discomfort and fatigue of night travel are balanced against the lively conversations with drivers and passengers.
----

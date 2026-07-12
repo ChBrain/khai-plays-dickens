@@ -33,4 +33,3 @@ A cramped, spiked confinement for debtors, which becomes a strange, protective s
 ## Withheld
 
 Freedom, financial success, and fresh air, which the high spiked walls refuse to provide.
----

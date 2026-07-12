@@ -53,4 +53,3 @@ The moral education of Pip, who is raised from Kent marshes by a secret convict 
 ## Stakes
 
 [Joe Gargery](persona_joe_gargery.md)'s forge sanctuary and [Pip](persona_pip.md)'s moral integrity, balanced against [Miss Havisham](persona_miss_havisham.md)'s frozen grief, [Estella](persona_estella.md)'s cold pride, and the [Expectations Corruption](process_expectations_corruption.md) process.
----

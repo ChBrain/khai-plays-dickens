@@ -35,5 +35,3 @@ A large book with thick paper, filled with simple, hand-written words and drawin
 - Last year, Doctor Marigold began writing this book in his auction cart.
 - Today, he uses it to teach the deaf-and-dumb Sophy to read and write.
 - The book remains a record of his fatherly devotion and Sophy's progress.
-
----

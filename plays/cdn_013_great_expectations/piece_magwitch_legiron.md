@@ -35,5 +35,3 @@ A heavy, rusted iron leg-cuff, with a deep cut from a blacksmith's file, found d
 - On the marshes, Pip handed Magwitch the file to cut this leg-iron.
 - Today, the leg-iron serves as a memory of Pip's childhood guilt.
 - Orlick uses the same leg-iron to strike down Pip's sister.
-
----

@@ -33,4 +33,3 @@ Captain Boldheart stands on the deck steering the ship, while the captive school
 ## Tension
 
 The boy's pirate fantasy subverts the real-world cruelty and authority of the schoolmaster.
----

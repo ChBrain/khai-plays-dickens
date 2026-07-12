@@ -33,4 +33,3 @@ The terror of Bradley Headstone's silent river pursuit and the anxiety of Silas 
 ## Echo
 
 A persistent reminder that true wealth and rebirth come from the heart and the water, while the dry dust of London heaps breeds only greed and decay.
----

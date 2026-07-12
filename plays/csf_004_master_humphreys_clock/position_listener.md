@@ -33,4 +33,3 @@ His silence, when he is moved to share his own quiet thoughts and observations w
 ## Drives
 
 The support of the clock keeper and the silent observation of human interest stories.
----

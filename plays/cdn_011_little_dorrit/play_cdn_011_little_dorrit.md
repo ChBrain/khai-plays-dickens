@@ -53,4 +53,3 @@ The narrative system of Southwark imprisonment and bureaucratic delay, following
 ## Stakes
 
 [Amy](persona_amy.md)'s quiet, self-sacrificing affection and [Arthur](persona_arthur.md)'s integrity, balanced against [Father Dorrit](persona_father_dorrit.md)'s debtor pride, [Merdle](persona_merdle.md)'s speculative bubble, and Mrs. Clennam's secret guilt.
----

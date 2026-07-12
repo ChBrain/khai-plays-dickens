@@ -33,4 +33,3 @@ The expense ledger and marriage license, meeting Hawkyard's preacher role and Ge
 ## Echo
 
 George accepts the public disgrace and misunderstanding in quiet martyrdom, explaining his life to the reader.
----

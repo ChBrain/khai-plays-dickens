@@ -33,4 +33,3 @@ A miserable, neglected shelter for George and his dying parents.
 ## Withheld
 
 Fresh air, and parent love, which the dark Preston cellar refuses to provide.
----

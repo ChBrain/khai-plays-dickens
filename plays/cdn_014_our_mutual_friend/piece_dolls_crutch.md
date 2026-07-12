@@ -35,5 +35,3 @@ A small, lightweight wooden crutch, with a worn arm-pad, leaning against Jenny's
 - For years, Jenny used this crutch to walk the London streets.
 - Today, she uses the crutch to tap on the floor, calling her father.
 - She lifts the crutch as she looks up, speaking of her fancy.
-
----

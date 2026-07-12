@@ -34,4 +34,3 @@ His unearned expectations make him snobbish and ashamed of the forge, until his 
 ## Tell
 
 He writes his memories in a large ledger, reflecting on the illusions of his youth.
----

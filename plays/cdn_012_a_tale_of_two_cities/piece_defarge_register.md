@@ -35,5 +35,3 @@ A long, wool knit strip, with complex patterns of stitches representing the name
 - For years, Madame Defarge knitted names while watching the wine shop.
 - Today, she knits Darnay's name into the register as he is arrested.
 - The register is left behind when she goes to her final duel with Miss Pross.
-
----

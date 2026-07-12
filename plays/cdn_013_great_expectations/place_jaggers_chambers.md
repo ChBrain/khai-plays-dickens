@@ -33,4 +33,3 @@ A sharp, unsentimental legal agency, managing expectations and criminal defense.
 ## Withheld
 
 Sympathy, advice, and emotional warmth, which Jaggers's hand-washing and skull casts refuse to allow.
----

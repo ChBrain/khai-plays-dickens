@@ -53,4 +53,3 @@ The narrative system of children subverting grown-up rules through stories, obse
 ## Stakes
 
 [Alicia](persona_alicia.md)'s magic-fishbone wish and [place_schoolroom_tribunal.md](place_schoolroom_tribunal.md) judgments, balanced against [Fashionable Mother](position_fashionable_mother.md) rules, the [Grownup Punishment Plan](plan_grownup_punishment.md), and schoolroom authority.
----

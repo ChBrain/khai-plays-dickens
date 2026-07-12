@@ -34,4 +34,3 @@ His grand pirate victories and command of a crew are a boyish revenge fantasy ag
 ## Tell
 
 He draws his wooden sword, shouting: "Surrender, schoolmaster, to Captain Boldheart!"
----

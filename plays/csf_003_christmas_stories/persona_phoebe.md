@@ -34,4 +34,3 @@ Her physical confinement is a contrast to her active, cheerful mind, teaching Ba
 ## Tell
 
 She looks up from her couch, smiling as she describes the trains passing by.
----

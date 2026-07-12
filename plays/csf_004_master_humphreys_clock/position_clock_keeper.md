@@ -33,4 +33,3 @@ His solitary routine, when his studies are filled with the laughter and stories 
 ## Drives
 
 The preservation of stories and the creation of a warm sanctuary for lonely souls.
----

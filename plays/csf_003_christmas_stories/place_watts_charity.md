@@ -33,4 +33,3 @@ A warm, dry Christmas Eve shelter and supper to six poor travellers.
 ## Withheld
 
 Permanent housing, wealth, and continuous luxury, which the overnight charity house refuses to provide.
----

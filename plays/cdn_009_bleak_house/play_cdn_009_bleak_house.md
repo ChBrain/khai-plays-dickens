@@ -53,4 +53,3 @@ The slow, ruinous course of the lawsuit Jarndyce and Jarndyce, dragging Esther S
 ## Stakes
 
 [John Jarndyce](persona_john_jarndyce.md)'s Bleak House sanctuary and [Esther](persona_esther.md)'s domestic peace, balanced against the systemic ruin of [Chancery Decay](process_chancery_decay.md), [Tulkinghorn](persona_tulkinghorn.md)'s predatory legal scheming, and the obsession of the [Litigant](position_litigant.md).
----

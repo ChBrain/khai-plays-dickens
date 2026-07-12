@@ -33,4 +33,3 @@ Mrs. Orange sits at a toy tea table pouring tea and cradling the baby doll, whil
 ## Tension
 
 The children manage the keys and household authority, while adults are treated as naughty children.
----

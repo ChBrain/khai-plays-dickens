@@ -33,4 +33,3 @@ A secure, secret storage space for Master Humphrey's stories.
 ## Withheld
 
 Bright sunlight, and public exposure, which the dark clock interior refuses to allow.
----

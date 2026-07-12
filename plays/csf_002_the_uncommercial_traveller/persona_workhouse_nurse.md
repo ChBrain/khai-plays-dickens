@@ -34,4 +34,3 @@ Her strict, firm manner is a response to the constant pressure of limited parish
 ## Tell
 
 She opens the heavy leather ledger, writing rapidly as she asks paupers their names.
----

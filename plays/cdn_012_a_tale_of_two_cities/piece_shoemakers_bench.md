@@ -35,5 +35,3 @@ A small wooden shoemaker's bench, with a hammer, awl, leather scraps, and unfini
 - In the Bastille cell, Dr. Manette began using this bench to stay sane.
 - Today, he hammer leather above the Paris wine shop, recognizing no one.
 - The bench is destroyed by his friends in London to prevent a relapse.
-
----

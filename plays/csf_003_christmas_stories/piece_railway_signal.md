@@ -35,5 +35,3 @@ A large metal railway signal lamp with red and green glass lenses, mounted on a 
 - For years, Mugby railwaymen operated this signal to direct trains.
 - Today, the signal director turns the lamp to direct the night mail train.
 - The signal remains a symbol of station safety and transit control.
-
----

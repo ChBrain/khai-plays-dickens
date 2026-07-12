@@ -36,5 +36,3 @@ The River Thames and marshes near Gravesend, utilizing Herbert Pocket's rowing h
 - [ ] Pip hires a rowboat and practices rowing on the Thames
 - [ ] He hides Magwitch in a riverside lodging near the docks
 - [ ] They row Magwitch down the river to board the steamer
-
----

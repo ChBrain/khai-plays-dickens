@@ -34,4 +34,3 @@ His quick, hot temper is a response to past cruelty in Ceylon, making him the pe
 ## Tell
 
 He flushes dark red, clenching his hand, and speaks in a proud, defensive tone.
----

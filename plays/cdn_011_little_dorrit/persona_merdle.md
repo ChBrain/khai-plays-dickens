@@ -34,4 +34,3 @@ His public reputation is a giant illusion of success, hiding a bankrupt fraud th
 ## Tell
 
 He slides his hands up his sleeves and looks anxiously at his shoes, saying nothing.
----

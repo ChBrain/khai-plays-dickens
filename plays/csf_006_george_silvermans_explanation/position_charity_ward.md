@@ -33,4 +33,3 @@ His independence, when his childhood expenses are used by his guardian to claim 
 ## Drives
 
 The search for intellectual escape and the fulfillment of his academic goals.
----

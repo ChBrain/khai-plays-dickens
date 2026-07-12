@@ -36,5 +36,3 @@ Mrs. Lirriper's Norfolk Street lodgings, utilizing Major Jackman's lodger help.
 - [ ] Mrs. Lirriper receives the orphan Jemmy into Norfolk Street
 - [ ] She provides food and shelter for Jemmy in her lodgings
 - [ ] She hires Major Jackman to teach Jemmy drawing-room lessons
-
----

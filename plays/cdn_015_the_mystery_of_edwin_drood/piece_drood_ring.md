@@ -35,5 +35,3 @@ A beautiful, old-fashioned gold ring set with a ruby and diamonds, kept in a vel
 - Years ago, Rosa's mother wore this gold-and-ruby ring.
 - Today, Edwin Drood carries the ring in his pocket, keeping it secret.
 - The ring remains hidden in the tomb, surviving the quicklime.
-
----

@@ -34,4 +34,3 @@ His dry, religious agreement with Hawkyard is a cover for his own desire for cha
 ## Tell
 
 He nods in agreement: "Brother Hawkyard has been a father to this ungrateful orphan, indeed!"
----

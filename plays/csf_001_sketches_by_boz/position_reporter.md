@@ -33,4 +33,3 @@ His detachment, when he is moved by the quiet tragedies of poor families in pawn
 ## Drives
 
 The relentless, sympathetic pursuit of truth in the ordinary lives of Londoners.
----

@@ -33,4 +33,3 @@ The heavy iron [Marshalsea Gate](piece_marshalsea_gate.md) swings open, while Wi
 ## Tension
 
 The physical imprisonment is resolved, but the family's new wealth creates a psychological prison of social pride.
----

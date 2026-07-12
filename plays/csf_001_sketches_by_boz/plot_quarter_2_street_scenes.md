@@ -33,4 +33,3 @@ An omnibus rattles over the cobblestones, while Boz watches passengers struggle 
 ## Tension
 
 The chaotic social energy of the busy streets is balanced against the quiet poverty Boz observes.
----

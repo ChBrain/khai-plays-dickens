@@ -34,4 +34,3 @@ Her frozen grief is a tool of revenge against the male sex, but she realizes too
 ## Tell
 
 She points with her withered hand to the stopped clock, whispering: "Play, play, play!"
----

@@ -35,5 +35,3 @@ A large, multi-tiered wedding cake, completely covered in grey cobwebs, dust, an
 - Twenty years ago, the cake was placed on the feast table.
 - Today, Miss Havisham points to the cake as her future grave.
 - The room catches fire, destroying the table and the cake.
-
----

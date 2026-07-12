@@ -36,5 +36,3 @@ The Cloisterham Cathedral crypts and churchyard, utilizing Durdles's key access.
 - [ ] Jasper buys Durdles drinks to make him sleep in the crypts
 - [ ] He steals the cathedral crypt key from Durdles's pocket
 - [ ] He explores the vaulted tombs and quicklime heaps at night
-
----

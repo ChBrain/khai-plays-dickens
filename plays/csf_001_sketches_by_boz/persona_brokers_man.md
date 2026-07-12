@@ -34,4 +34,3 @@ His quiet, passive role hides his own poverty and shame, performing a cruel task
 ## Tell
 
 He sits quietly in a corner, looking at a small pawn ticket in his hand.
----

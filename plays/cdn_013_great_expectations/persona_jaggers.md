@@ -34,4 +34,3 @@ His formidable, suspicious silence is a defense against all sentimentality, but 
 ## Tell
 
 He washes his hands in a brass basin, smelling of scented soap, and points with a sharp forefinger.
----

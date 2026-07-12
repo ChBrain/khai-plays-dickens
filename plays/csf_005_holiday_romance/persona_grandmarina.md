@@ -34,4 +34,3 @@ Her sharp lectures and demands for self-help cover her deep care for Alicia, usi
 ## Tell
 
 She waves her fan, declaring: "Those who do not help themselves, Watkins, do not deserve fairy help!"
----

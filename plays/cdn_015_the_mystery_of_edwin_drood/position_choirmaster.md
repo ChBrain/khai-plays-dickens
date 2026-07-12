@@ -33,4 +33,3 @@ His respectable standing, and his sanity when his double life and drug dreams co
 ## Drives
 
 The desperate preservation of his respectable public position while pursuing a dark, obsessive passion.
----

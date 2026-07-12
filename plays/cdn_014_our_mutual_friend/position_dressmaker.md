@@ -33,4 +33,3 @@ The support of a reliable parent (her drunken father), but never her sharp tongu
 ## Drives
 
 The support of her household through her independent, creative work, using fancy to escape her crippled reality.
----

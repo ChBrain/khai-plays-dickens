@@ -35,5 +35,3 @@ A yellowed, folded paper, sealed with red wax, hidden inside a metal box in Mrs.
 - For twenty years, Mrs. Clennam kept this codicil hidden.
 - Today, Blandois produces the document to blackmail Mrs. Clennam.
 - The codicil is destroyed when Clennam's house collapses in ruins.
-
----

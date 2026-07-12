@@ -34,4 +34,3 @@ His boasting, self-righteous preaching and audits of the [Expense Ledger](piece_
 ## Tell
 
 He bangs his ledger, shouting: "I have spent fifty pounds on this orphan, chapel friends, out of pure Christian love!"
----

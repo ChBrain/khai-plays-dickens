@@ -35,5 +35,3 @@ A long, dark wood pipe, with a small brass bowl and a mouth-piece, stained by co
 - For years, the Princess Puffer prepared this pipe in her London den.
 - Today, John Jasper smokes the pipe to induce his dark hallucinations.
 - The pipe is watched by Princess Puffer as she tracks Jasper's words.
-
----

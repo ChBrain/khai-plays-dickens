@@ -34,4 +34,3 @@ His shoe-making habit returns whenever he faces extreme stress, representing the
 ## Tell
 
 He hammers leather at a small bench, muttering: "One Hundred and Five, North Tower."
----

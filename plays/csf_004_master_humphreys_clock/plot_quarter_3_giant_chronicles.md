@@ -33,4 +33,3 @@ Redburn stands by the grandfather clock reading aloud, while Master Humphrey and
 ## Tension
 
 The ancient, dark legends of London's past contrast with the quiet safety of the modern study.
----
