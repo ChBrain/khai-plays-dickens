@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.25.0",
+  "version": "0.26.0",
   "plays": [
     {
       "kind": "play",
@@ -152,6 +152,12 @@
       "id": "csf_005_holiday_romance",
       "title": "Holiday Romance",
       "description": "A children's romance subverting grown-up rules through mock trials, magic fishbones, and pirate adventures."
+    },
+    {
+      "kind": "play",
+      "id": "csf_006_george_silvermans_explanation",
+      "title": "George Silverman's Explanation",
+      "description": "A melancholy monologue of cellar childhood, preacher hypocrisy, and quiet misunderstandings of self-sacrifice."
     }
   ]
 }
