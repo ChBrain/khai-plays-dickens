@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.29.0",
+  "version": "0.30.0",
   "plays": [
     {
       "kind": "play",
@@ -176,6 +176,12 @@
       "id": "csf_009_american_notes",
       "title": "American Notes",
       "description": "A critical travelogue, auditing American penitentiaries, political habits, and the system of southern slavery."
+    },
+    {
+      "kind": "play",
+      "id": "csf_010_childs_history",
+      "title": "A Child's History of England",
+      "description": "A narrative retelling of English history, educating children through moral audits of monarchs."
     }
   ]
 }
