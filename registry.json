@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.30.0",
+  "version": "0.31.0",
   "plays": [
     {
       "kind": "play",
@@ -182,6 +182,12 @@
       "id": "csf_010_george_silvermans_explanation",
       "title": "George Silverman's Explanation",
       "description": "A melancholy monologue of cellar childhood, preacher hypocrisy, and quiet misunderstandings of self-sacrifice."
+    },
+    {
+      "kind": "play",
+      "id": "csf_011_lazy_tour",
+      "title": "The Lazy Tour of Two Idle Apprentices",
+      "description": "A satirical travelogue, tracing two idle apprentices fleeing literature through Cumberland and Doncaster."
     }
   ]
 }
