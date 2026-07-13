@@ -28,7 +28,7 @@ A bright summer morning on the country roads and fairs.
 
 ## Stage
 
-Nell guides the visitors through the exhibition, pointing out the [Wax Figure](piece_wax_figure.md) to crowds at the town hall.
+Nell guides the visitors through the exhibition, pointing out the [Wax Figure](piece_wax_figure.md) to crowds at the town hall, while [Dick Swiveller](persona_swiveller.md) questions local residents nearby.
 
 ## Tension
 
