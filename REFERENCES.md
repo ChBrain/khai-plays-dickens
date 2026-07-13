@@ -42,14 +42,15 @@ The current status of the Dickens productions within this house:
   - `[x]` `ccb_005_the_haunted_man_and_the_ghosts_bargain` — Staged
 - **The Shorter Fiction and Sketches (CSF)**
   - `[x]` `csf_001_sketches_by_boz` — Staged
-  - `[x]` `csf_002_the_uncommercial_traveller` — Staged
-  - `[x]` `csf_003_christmas_stories` — Staged
-  - `[x]` `csf_004_master_humphreys_clock` — Staged
-  - `[x]` `csf_005_holiday_romance` — Staged
-  - `[x]` `csf_006_george_silvermans_explanation` — Staged
-  - `[x]` `csf_007_the_mudfog_papers` — Staged
-  - `[x]` `csf_008_pictures_from_italy` — Staged
-  - `[x]` `csf_009_american_notes` — Staged
+  - `[x]` `csf_002_the_mudfog_papers` — Staged
+  - `[x]` `csf_003_master_humphreys_clock` — Staged
+  - `[x]` `csf_004_american_notes` — Staged
+  - `[x]` `csf_005_pictures_from_italy` — Staged
+  - `[x]` `csf_006_christmas_stories` — Staged
+  - `[x]` `csf_007_childs_history` — Staged
+  - `[x]` `csf_008_the_uncommercial_traveller` — Staged
+  - `[x]` `csf_009_holiday_romance` — Staged
+  - `[x]` `csf_010_george_silvermans_explanation` — Staged
 
 ## Origin
 
@@ -84,14 +85,15 @@ The complete canonical catalog of Charles Dickens's published works, held in the
 ### Shorter Fiction and Sketches (CSF)
 
 - **`csf_001` [SB]** — _Sketches by Boz_ (published in 1836): The earliest reports of the streets, the shops, the coaches, and the characters of London, taken before the writer had turned his observations to novels.
-- **`csf_002` [UT]** — _The Uncommercial Traveller_ (published from 1860 to 1869): The wandering essays of a foot passenger, who tramps through the workhouses, docks, and night-walks of the city, recording the silent stories of the crowd.
-- **`csf_003` [CS]** — _Christmas Stories_ (published from 1850 to 1867): The collaborative tales from the Christmas numbers of _Household Words_ and _All the Year Round_, from _The Seven Poor Travellers_ to _No Thoroughfare_.
-- **`csf_004` [MHC]** — _Master Humphrey's Clock_ (published from 1840 to 1841): The framing chronicle of the old clock-case, where Master Humphrey and his friends gather to read their manuscripts.
-- **`csf_005` [HR]** — _Holiday Romance_ (published in 1868): A children's story in four parts, told by the children themselves, exposing the strange ways of parents and grownups.
-- **`csf_006` [GB]** — _George Silverman's Explanation_ (published in 1868): The confession of a clergyman who suffers from the suspicion of his fellows, despite his attempts at selflessness.
-- **`csf_007` [MP]** — _The Mudfog Papers_ (published from 1837 to 1838): A series of parodies on scientific association meetings and municipal pomposity in the damp town of Mudfog.
-- **`csf_008` [PI]** — _Pictures from Italy_ (published in 1846): A travelogue recording his year-long journey through France and Italy with his family, capturing the contrast between ancient ruins and local life.
-- **`csf_009` [AN]** — _American Notes_ (published in 1842): A critical travelogue recording his six-month tour of the United States, auditing prisons, asylums, and the system of slavery.
+- **`csf_002` [MP]** — _The Mudfog Papers_ (published from 1837 to 1838): A series of parodies on scientific association meetings and municipal pomposity in the damp town of Mudfog.
+- **`csf_003` [MHC]** — _Master Humphrey's Clock_ (published from 1840 to 1841): The framing chronicle of the old clock-case, where Master Humphrey and his friends gather to read their manuscripts.
+- **`csf_004` [AN]** — _American Notes_ (published in 1842): A critical travelogue recording his six-month tour of the United States, auditing prisons, asylums, and the system of slavery.
+- **`csf_005` [PI]** — _Pictures from Italy_ (published in 1846): A travelogue recording his year-long journey through France and Italy with his family, capturing the contrast between ancient ruins and local life.
+- **`csf_006` [CS]** — _Christmas Stories_ (published from 1850 to 1867): The collaborative tales from the Christmas numbers of _Household Words_ and _All the Year Round_, from _The Seven Poor Travellers_ to _No Thoroughfare_.
+- **`csf_007` [CHE]** — _A Child's History of England_ (published from 1851 to 1853): A narrative history written to introduce children to the stories of English kings and reigns.
+- **`csf_008` [UT]** — _The Uncommercial Traveller_ (published from 1860 to 1869): The wandering essays of a foot passenger, who tramps through the workhouses, docks, and night-walks of the city, recording the silent stories of the crowd.
+- **`csf_009` [HR]** — _Holiday Romance_ (published in 1868): A children's story in four parts, told by the children themselves, exposing the strange ways of parents and grownups.
+- **`csf_010` [GB]** — _George Silverman's Explanation_ (published in 1868): The confession of a clergyman who suffers from the suspicion of his fellows, despite his attempts at selflessness.
 
 ## Restrictions
 
