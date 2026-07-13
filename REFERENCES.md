@@ -49,6 +49,7 @@ The current status of the Dickens productions within this house:
   - `[x]` `csf_006_george_silvermans_explanation` — Staged
   - `[x]` `csf_007_the_mudfog_papers` — Staged
   - `[x]` `csf_008_pictures_from_italy` — Staged
+  - `[x]` `csf_009_american_notes` — Staged
 
 ## Origin
 
@@ -90,6 +91,7 @@ The complete canonical catalog of Charles Dickens's published works, held in the
 - **`csf_006` [GB]** — _George Silverman's Explanation_ (published in 1868): The confession of a clergyman who suffers from the suspicion of his fellows, despite his attempts at selflessness.
 - **`csf_007` [MP]** — _The Mudfog Papers_ (published from 1837 to 1838): A series of parodies on scientific association meetings and municipal pomposity in the damp town of Mudfog.
 - **`csf_008` [PI]** — _Pictures from Italy_ (published in 1846): A travelogue recording his year-long journey through France and Italy with his family, capturing the contrast between ancient ruins and local life.
+- **`csf_009` [AN]** — _American Notes_ (published in 1842): A critical travelogue recording his six-month tour of the United States, auditing prisons, asylums, and the system of slavery.
 
 ## Restrictions
 
