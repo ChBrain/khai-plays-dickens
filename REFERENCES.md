@@ -47,6 +47,7 @@ The current status of the Dickens productions within this house:
   - `[x]` `csf_004_master_humphreys_clock` — Staged
   - `[x]` `csf_005_holiday_romance` — Staged
   - `[x]` `csf_006_george_silvermans_explanation` — Staged
+  - `[x]` `csf_007_the_mudfog_papers` — Staged
 
 ## Origin
 
@@ -86,6 +87,7 @@ The complete canonical catalog of Charles Dickens's published works, held in the
 - **`csf_004` [MHC]** — _Master Humphrey's Clock_ (published from 1840 to 1841): The framing chronicle of the old clock-case, where Master Humphrey and his friends gather to read their manuscripts.
 - **`csf_005` [HR]** — _Holiday Romance_ (published in 1868): A children's story in four parts, told by the children themselves, exposing the strange ways of parents and grownups.
 - **`csf_006` [GB]** — _George Silverman's Explanation_ (published in 1868): The confession of a clergyman who suffers from the suspicion of his fellows, despite his attempts at selflessness.
+- **`csf_007` [MP]** — _The Mudfog Papers_ (published from 1837 to 1838): A series of parodies on scientific association meetings and municipal pomposity in the damp town of Mudfog.
 
 ## Restrictions
 
