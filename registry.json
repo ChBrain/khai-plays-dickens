@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.27.0",
+  "version": "0.28.0",
   "plays": [
     {
       "kind": "play",
@@ -164,6 +164,12 @@
       "id": "csf_007_the_mudfog_papers",
       "title": "The Mudfog Papers",
       "description": "A parody of scientific vanity, staging a mayor's disastrous pageant and the absurd scientific exhibitions."
+    },
+    {
+      "kind": "play",
+      "id": "csf_008_pictures_from_italy",
+      "title": "Pictures from Italy",
+      "description": "A series of travel sketches, recording personal impressions of Italian cities, ruins, and ordinary social life."
     }
   ]
 }
