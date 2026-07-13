@@ -51,6 +51,7 @@ The current status of the Dickens productions within this house:
   - `[x]` `csf_008_the_uncommercial_traveller` — Staged
   - `[x]` `csf_009_holiday_romance` — Staged
   - `[x]` `csf_010_george_silvermans_explanation` — Staged
+  - `[x]` `csf_011_lazy_tour` — Staged
 
 ## Origin
 
@@ -94,6 +95,7 @@ The complete canonical catalog of Charles Dickens's published works, held in the
 - **`csf_008` [UT]** — _The Uncommercial Traveller_ (published from 1860 to 1869): The wandering essays of a foot passenger, who tramps through the workhouses, docks, and night-walks of the city, recording the silent stories of the crowd.
 - **`csf_009` [HR]** — _Holiday Romance_ (published in 1868): A children's story in four parts, told by the children themselves, exposing the strange ways of parents and grownups.
 - **`csf_010` [GB]** — _George Silverman's Explanation_ (published in 1868): The confession of a clergyman who suffers from the suspicion of his fellows, despite his attempts at selflessness.
+- **`csf_011` [LT]** — _The Lazy Tour of Two Idle Apprentices_ (published in 1857): A collaborative travelogue recording their tour of Cumberland and Doncaster, following two run-away apprentices seeking complete idleness.
 
 ## Restrictions
 
