@@ -20,11 +20,11 @@ The process of shared literary creation: a collaborative writing process.
 
 ## Initiated by
 
-The decision of the two travelers to write down their travel adventures and insert separate ghost stories.
+The decision of the two travelers to write down their travel adventures, blending the active partner's descriptions and ghost story with the idler's comic history.
 
 ## Direction
 
-The combination of different styles, where one partner writes energetic descriptions and the other drafts dark, mysterious stories.
+The combination of different styles, where the active partner writes energetic descriptions and the dark tale of the Bride's Chamber, and the idler drafts his comic history of doing nothing.
 
 ## Lever
 

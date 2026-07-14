@@ -25,7 +25,7 @@ Francis Goodchild, a restless and active apprentice in his [Active Wanderer](pos
 
 ## Action
 
-Lead the climb up the mountain, write down observations in the travel journal, and manage the lodging arrangements.
+Lead the climb up the mountain, write down observations in the travel journal, relate the Bride's Chamber ghost story during the night at Lancaster, and manage the lodging arrangements.
 
 ## Shadow
 

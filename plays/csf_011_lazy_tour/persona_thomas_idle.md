@@ -25,7 +25,7 @@ Thomas Idle, a born and bred passive apprentice in his [Passive Idler](position_
 
 ## Action
 
-Sprain his ankle on the mountain side, lie on the sofa during recovery, and write dark stories for their journal.
+Sprain his ankle on the mountain descent, lie on the sofa during recovery, and recount his comic history of idleness for their journal.
 
 ## Shadow
 
