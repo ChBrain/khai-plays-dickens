@@ -21,7 +21,7 @@ The Lazy Tour of Two Idle Apprentices
 
 ## Arc
 
-A lighthearted, collaborative travelogue following two apprentices who escape their work to pursue complete idleness, traveling through the misty hills of Cumberland, telling ghosts stories during recovery, and finally plunging into the chaotic betting crowds of Doncaster.
+A lighthearted, collaborative travelogue following two apprentices who escape their work to pursue complete idleness, traveling through the misty hills of Cumberland, recovering by the sea, keeping a haunted vigil at Lancaster, and finally plunging into the chaotic betting crowds of Doncaster.
 
 ## Company
 
@@ -31,6 +31,7 @@ A lighthearted, collaborative travelogue following two apprentices who escape th
 - [Passive Idler](position_passive_idler.md)
 - [Carrock Fell](place_carrock_fell.md)
 - [Doncaster Racecourse](place_doncaster_racecourse.md)
+- [Lancaster Inn](place_lancaster_inn.md)
 - [Climbing Staff](piece_climbing_staff.md)
 - [Race Card](piece_race_card.md)
 - [Collaborative Writing](process_collaborative_writing.md)
@@ -39,9 +40,9 @@ A lighthearted, collaborative travelogue following two apprentices who escape th
 
 ## Triggers
 
-- `plot_quarter_1_escape_and_fell.md` starts at the base of the hills, triggered by the escape from literature, and exits after the mountain injury.
-- `plot_quarter_2_injury_and_ghosts.md` starts in the seaside inn, triggered by the sprained ankle, and exits after the sharing of the first ghost story.
-- `plot_quarter_3_idle_philosophy.md` starts in the recovery room, triggered by Idle's defense of passivity, and exits after the second ghost story.
+- `plot_quarter_1_escape_and_fell.md` starts at the base of the hills, triggered by the escape from literature, and exits after the mountain injury on the descent.
+- `plot_quarter_2_recovery_and_idleness.md` starts in the seaside inn at Allonby, triggered by the sprained ankle, and exits after Idle recounts his history of idleness.
+- `plot_quarter_3_bride_chamber.md` starts in the haunted room at Lancaster, triggered by the night's lodging, and exits after Goodchild relates the Bride's Chamber ghost story.
 - `plot_quarter_4_doncaster_chaos.md` starts at the racecourse gates, triggered by arrival at Doncaster, and exits with the end of the race-week.
 
 ## Stakes
