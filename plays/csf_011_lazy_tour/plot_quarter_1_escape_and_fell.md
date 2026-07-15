@@ -28,7 +28,7 @@ A damp morning in Cumberland, where the steep hills rise into the clouds.
 
 ## Stage
 
-[Francis Goodchild](persona_francis_goodchild.md) stands on the windy summit of [Carrock Fell](place_carrock_fell.md) while [Thomas Idle](persona_thomas_idle.md) slips on the wet grass, spraining his ankle.
+[Francis Goodchild](persona_francis_goodchild.md) gains the mist-blind summit of [Carrock Fell](place_carrock_fell.md), but on the streaming descent [Thomas Idle](persona_thomas_idle.md) turns his ankle among the wet stones by the running water.
 
 ## Tension
 

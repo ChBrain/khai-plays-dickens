@@ -24,7 +24,7 @@ A comfortable sofa, a bandage for his sprained ankle, a smoking pipe, and a deep
 
 ## Orders
 
-Avoid all physical effort, rest his sprained ankle in the inn, and tell dark stories to pass the hours of recovery.
+Avoid all physical effort, rest his sprained ankle in the inn, and recount his own history of idleness to pass the hours of recovery.
 
 ## Loses
 
