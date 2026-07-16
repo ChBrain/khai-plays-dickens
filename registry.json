@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.31.0",
+  "version": "0.32.0",
   "plays": [
     {
       "kind": "play",
@@ -188,6 +188,12 @@
       "id": "csf_011_lazy_tour",
       "title": "The Lazy Tour of Two Idle Apprentices",
       "description": "A satirical travelogue, tracing two idle apprentices fleeing literature through Cumberland and Doncaster."
+    },
+    {
+      "kind": "play",
+      "id": "csf_012_hunted_down",
+      "title": "Hunted Down",
+      "description": "A drama of insurance fraud, staging calculating poisoner Julius Slinkton audited by an insurance counter-trap."
     }
   ]
 }
