@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.32.0",
+  "version": "0.33.0",
   "plays": [
     {
       "kind": "play",
@@ -194,6 +194,12 @@
       "id": "csf_012_hunted_down",
       "title": "Hunted Down",
       "description": "A drama of insurance fraud, staging calculating poisoner Julius Slinkton audited by an insurance counter-trap."
+    },
+    {
+      "kind": "play",
+      "id": "csf_013_sunday_under_three_heads",
+      "title": "Sunday Under Three Heads",
+      "description": "A drama of social reform, staging Sabbath restrictions, poor-class recreation, and Sabbatarian legislation."
     }
   ]
 }
