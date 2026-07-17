@@ -53,6 +53,7 @@ The current status of the Dickens productions within this house:
   - `[x]` `csf_010_george_silvermans_explanation` — Staged
   - `[x]` `csf_011_lazy_tour` — Staged
   - `[x]` `csf_012_hunted_down` — Staged
+  - `[x]` `csf_013_sunday_under_three_heads` — Staged
 
 ## Origin
 
@@ -98,6 +99,7 @@ The complete canonical catalog of Charles Dickens's published works, held in the
 - **`csf_010` [GB]** — _George Silverman's Explanation_ (published in 1868): The confession of a clergyman who suffers from the suspicion of his fellows, despite his attempts at selflessness.
 - **`csf_011` [LT]** — _The Lazy Tour of Two Idle Apprentices_ (published in 1857): A collaborative travelogue recording their tour of Cumberland and Doncaster, following two run-away apprentices seeking complete idleness.
 - **`csf_012` [HD]** — _Hunted Down_ (published in 1859): A drama of insurance fraud, staging calculating poisoner Julius Slinkton audited by an insurance counter-trap.
+- **`csf_013` [SUTH]** — _Sunday Under Three Heads_ (published in 1836): A drama of social reform, staging Sabbath restrictions, poor-class recreation, and Sabbatarian legislation.
 
 ## Restrictions
 
