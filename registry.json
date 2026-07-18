@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.33.0",
+  "version": "0.34.0",
   "plays": [
     {
       "kind": "play",
@@ -200,6 +200,12 @@
       "id": "csf_013_sunday_under_three_heads",
       "title": "Sunday Under Three Heads",
       "description": "A drama of social reform, staging Sabbath restrictions, poor-class recreation, and Sabbatarian legislation."
+    },
+    {
+      "kind": "play",
+      "id": "csf_014_the_strange_gentleman",
+      "title": "The Strange Gentleman",
+      "description": "A theatrical farce of errors, staging mistaken identity, romantic confusion, and eccentric hotel guests."
     }
   ]
 }
