@@ -54,6 +54,7 @@ The current status of the Dickens productions within this house:
   - `[x]` `csf_011_lazy_tour` — Staged
   - `[x]` `csf_012_hunted_down` — Staged
   - `[x]` `csf_013_sunday_under_three_heads` — Staged
+  - `[x]` `csf_014_the_strange_gentleman` — Staged
 
 ## Origin
 
@@ -100,6 +101,7 @@ The complete canonical catalog of Charles Dickens's published works, held in the
 - **`csf_011` [LT]** — _The Lazy Tour of Two Idle Apprentices_ (published in 1857): A collaborative travelogue recording their tour of Cumberland and Doncaster, following two run-away apprentices seeking complete idleness.
 - **`csf_012` [HD]** — _Hunted Down_ (published in 1859): A drama of insurance fraud, staging calculating poisoner Julius Slinkton audited by an insurance counter-trap.
 - **`csf_013` [SUTH]** — _Sunday Under Three Heads_ (published in 1836): A drama of social reform, staging Sabbath restrictions, poor-class recreation, and Sabbatarian legislation.
+- **`csf_014` [TSG]** — _The Strange Gentleman_ (published in 1836): A theatrical farce of errors, staging mistaken identity, romantic confusion, and eccentric hotel guests.
 
 ## Restrictions
 
