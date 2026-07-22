@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.34.0",
+  "version": "0.35.0",
   "plays": [
     {
       "kind": "play",
@@ -206,6 +206,12 @@
       "id": "csf_014_the_strange_gentleman",
       "title": "The Strange Gentleman",
       "description": "A theatrical farce of errors, staging mistaken identity, romantic confusion, and eccentric hotel guests."
+    },
+    {
+      "kind": "play",
+      "id": "csf_015_the_frozen_deep",
+      "title": "The Frozen Deep",
+      "description": "A theatrical drama of self-sacrifice, staging an Arctic expedition, romantic rivalry, and a redemptive rescue."
     }
   ]
 }
