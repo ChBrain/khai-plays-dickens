@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.35.0",
+  "version": "0.36.0",
   "plays": [
     {
       "kind": "play",
@@ -212,6 +212,12 @@
       "id": "csf_015_the_frozen_deep",
       "title": "The Frozen Deep",
       "description": "A theatrical drama of self-sacrifice, staging an Arctic expedition, romantic rivalry, and a redemptive rescue."
+    },
+    {
+      "kind": "play",
+      "id": "csf_016_to_be_read_at_dusk",
+      "title": "To Be Read at Dusk",
+      "description": "A dramatic tale of premonition, staging two romantic tragedies told by couriers on a mountain pass."
     }
   ]
 }
