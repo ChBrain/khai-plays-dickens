@@ -56,6 +56,7 @@ The current status of the Dickens productions within this house:
   - `[x]` `csf_013_sunday_under_three_heads` — Staged
   - `[x]` `csf_014_the_strange_gentleman` — Staged
   - `[x]` `csf_015_the_frozen_deep` — Staged
+  - `[x]` `csf_016_to_be_read_at_dusk` — Staged
 
 ## Origin
 
@@ -104,6 +105,7 @@ The complete canonical catalog of Charles Dickens's published works, held in the
 - **`csf_013` [SUTH]** — _Sunday Under Three Heads_ (published in 1836): A drama of social reform, staging Sabbath restrictions, poor-class recreation, and Sabbatarian legislation.
 - **`csf_014` [TSG]** — _The Strange Gentleman_ (published in 1836): A theatrical farce of errors, staging mistaken identity, romantic confusion, and eccentric hotel guests.
 - **`csf_015` [TFD]** — _The Frozen Deep_ (published in 1856): A theatrical drama of self-sacrifice, staging an Arctic expedition, romantic rivalry, and a redemptive rescue.
+- **`csf_016` [TBRD]** — _To Be Read at Dusk_ (published in 1852): A dramatic tale of premonition, staging two romantic tragedies told by couriers on a mountain pass.
 
 ## Restrictions
 
