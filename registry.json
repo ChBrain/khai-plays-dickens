@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-dickens",
-  "version": "0.36.0",
+  "version": "0.39.0",
   "plays": [
     {
       "kind": "play",
@@ -218,6 +218,24 @@
       "id": "csf_016_to_be_read_at_dusk",
       "title": "To Be Read at Dusk",
       "description": "A dramatic tale of premonition, staging two romantic tragedies told by couriers on a mountain pass."
+    },
+    {
+      "kind": "play",
+      "id": "csf_017_the_lamplighter",
+      "title": "The Lamplighter",
+      "description": "A theatrical farce of errors, staging an eccentric astrologer, a niece, and a series of identity mix-ups."
+    },
+    {
+      "kind": "play",
+      "id": "csf_018_mr_nightingales_diary",
+      "title": "Mr. Nightingale's Diary",
+      "description": "A rapid-fire farce, staging eccentric guests, domestic schemes, and quick-change theatrical disguises."
+    },
+    {
+      "kind": "play",
+      "id": "csf_019_is_she_his_wife",
+      "title": "Is She His Wife?",
+      "description": "A comic burletta of domestic misunderstandings, jealousy, and social flirting at a country villa."
     }
   ]
 }
