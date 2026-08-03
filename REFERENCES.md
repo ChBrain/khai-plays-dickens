@@ -57,6 +57,9 @@ The current status of the Dickens productions within this house:
   - `[x]` `csf_014_the_strange_gentleman` — Staged
   - `[x]` `csf_015_the_frozen_deep` — Staged
   - `[x]` `csf_016_to_be_read_at_dusk` — Staged
+  - `[x]` `csf_017_the_lamplighter` — Staged
+  - `[x]` `csf_018_mr_nightingales_diary` — Staged
+  - `[x]` `csf_019_is_she_his_wife` — Staged
 
 ## Origin
 
@@ -106,6 +109,9 @@ The complete canonical catalog of Charles Dickens's published works, held in the
 - **`csf_014` [TSG]** — _The Strange Gentleman_ (published in 1836): A theatrical farce of errors, staging mistaken identity, romantic confusion, and eccentric hotel guests.
 - **`csf_015` [TFD]** — _The Frozen Deep_ (published in 1856): A theatrical drama of self-sacrifice, staging an Arctic expedition, romantic rivalry, and a redemptive rescue.
 - **`csf_016` [TBRD]** — _To Be Read at Dusk_ (published in 1852): A dramatic tale of premonition, staging two romantic tragedies told by couriers on a mountain pass.
+- **`csf_017` [TL]** — _The Lamplighter_ (published in 1838): A theatrical farce of errors, staging an eccentric astrologer, a niece, and a series of identity mix-ups.
+- **`csf_018` [MND]** — _Mr. Nightingale's Diary_ (published in 1851): A rapid-fire farce, staging eccentric guests, domestic schemes, and quick-change theatrical disguises.
+- **`csf_019` [ISHW]** — _Is She His Wife?_ (published in 1837): A comic burletta of domestic misunderstandings, jealousy, and social flirting at a country villa.
 
 ## Restrictions
 
