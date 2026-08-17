@@ -56,7 +56,7 @@ jobs:
         run: npm test
 
       - name: changesets release
-        uses: changesets/action@v1
+        uses: changesets/action@v2
         with:
           version: npm run version
           publish: npm run release
