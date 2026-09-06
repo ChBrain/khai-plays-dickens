@@ -19,3 +19,5 @@ updates:
           - "@vitest/*"
           - "husky"
           - "@changesets/*"
+    ignore:
+      - dependency-name: "@chbrain/*"
